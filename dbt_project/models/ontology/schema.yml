@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: ont_route_classification
+    description: |
+      Route ontology — multi-signal class + budget recommendation.
+      Classes are mutually exclusive and evaluated in priority order.
+      classification_confidence_pct quantifies evidence strength (0-100).
+    columns:
+      - name: route_id
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              arguments:
+                to: ref('sem_route_performance')
+                field: route_id
+      - name: route_class
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Strategic Growth', 'Cash Cow', 'Operational Risk', 'Critical Underperformer', 'Underperforming', 'Monitor']
+      - name: budget_recommendation
+        tests:
+          - not_null
+      - name: classification_confidence_pct
+        tests:
+          - not_null
+
+  - name: ont_customer_classification
+    description: |
+      Customer ontology — multi-signal class + recommended action +
+      ltv_potential_score (0-100 composite).
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              arguments:
+                to: ref('sem_customer_segments')
+                field: customer_id
+      - name: customer_class
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['High-Value At-Risk', 'Loyal Advocate', 'Growth Target', 'Dormant', 'Casual']
+      - name: value_tier
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['High Value', 'Mid Value', 'Low Value']
+      - name: ltv_potential_score
+        tests:
+          - not_null

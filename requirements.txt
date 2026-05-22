@@ -1,0 +1,16 @@
+# Direct dependencies — versions pinned for reproducibility.
+# Transitive deps are resolved by pip at install time.
+# To regenerate: .venv/Scripts/python.exe -m pip freeze | findstr /R "..."
+
+dbt-duckdb==1.10.1
+duckdb==1.5.2
+streamlit==1.57.0
+plotly==6.7.0
+pandas==3.0.3
+openpyxl==3.1.5
+Faker==40.18.0
+mcp==1.27.1
+numpy==2.4.6
+scipy==1.17.1
+sentence-transformers==5.5.0
+PyYAML==6.0.3

@@ -1,0 +1,13 @@
+route_id,origin_airport_code,destination_airport_code,route_type,distance_km,block_time_min
+R001,ABJ,BYK,Domestic,350,50
+R002,ABJ,MJC,Domestic,470,65
+R003,ABJ,HGO,Domestic,520,70
+R004,ABJ,ACC,Regional,420,70
+R005,ABJ,DKR,Regional,920,130
+R006,ABJ,LOS,Regional,830,95
+R007,ABJ,COO,Regional,650,85
+R008,ABJ,OUA,Regional,790,100
+R009,ABJ,CDG,International,4880,390
+R010,ACC,ABJ,Regional,420,70
+R011,DKR,ABJ,Regional,920,130
+R012,LOS,ABJ,Regional,830,95

@@ -1,0 +1,36 @@
+name: aci_analytics
+version: '1.0.0'
+config-version: 2
+
+profile: aci_analytics
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+analysis-paths: ["analyses"]
+
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+# Frozen analytical "as-of" date — see aci_config.py for rationale.
+# Override at runtime with --vars '{"reference_date": "YYYY-MM-DD"}'.
+vars:
+  reference_date: "2025-02-01"
+  value_tier_high_threshold: 17000
+  value_tier_mid_threshold: 13000
+
+# All models live in the default DuckDB schema (`main`) so the dashboard and
+# MCP server can address tables by bare name (e.g. `sem_route_performance`)
+# without schema-qualified lookups. The folder structure already conveys the
+# layer; a DB-level schema split would be churn without business value.
+models:
+  aci_analytics:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
+    semantic:
+      +materialized: table
+    ontology:
+      +materialized: table

@@ -1,0 +1,1501 @@
+ticket_id,customer_id,route_id,open_date,category,description,sentiment,status,resolution_days,csat_score
+TKT000001,CUST0219,R009,2025-01-10,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,2,5
+TKT000002,CUST0085,R009,2024-12-16,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Open,,
+TKT000003,CUST0213,R008,2024-10-09,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,10,5
+TKT000004,CUST0045,R001,2025-01-30,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,13,5
+TKT000005,CUST0283,R006,2024-10-29,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,8,1
+TKT000006,CUST0100,R009,2024-10-17,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,7,1
+TKT000007,CUST0134,R003,2024-12-04,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,4,2
+TKT000008,CUST0157,R010,2024-10-30,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,9,5
+TKT000009,CUST0167,R006,2025-01-15,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Open,,
+TKT000010,CUST0119,R009,2025-01-20,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,11,1
+TKT000011,CUST0021,R004,2025-01-20,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Open,,
+TKT000012,CUST0222,R002,2024-12-23,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,11,3
+TKT000013,CUST0223,R002,2024-11-03,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,12,2
+TKT000014,CUST0097,R011,2025-01-05,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,9,5
+TKT000015,CUST0261,R012,2025-01-16,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,2,3
+TKT000016,CUST0026,R004,2024-11-30,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,6,5
+TKT000017,CUST0261,R006,2024-12-07,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,1,1
+TKT000018,CUST0057,R009,2024-12-03,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,11,1
+TKT000019,CUST0053,R010,2024-12-15,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000020,CUST0250,R006,2025-01-31,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000021,CUST0036,R011,2025-01-13,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT000022,CUST0286,R008,2024-12-02,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,7,5
+TKT000023,CUST0257,R011,2024-11-07,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT000024,CUST0177,R005,2025-01-13,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,2,3
+TKT000025,CUST0222,R005,2024-10-26,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,11,5
+TKT000026,CUST0222,R006,2024-10-17,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,8,5
+TKT000027,CUST0048,R009,2024-11-10,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,10,3
+TKT000028,CUST0119,R010,2025-01-04,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,10,4
+TKT000029,CUST0024,R001,2024-10-12,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,3,5
+TKT000030,CUST0240,R005,2024-12-17,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,14,4
+TKT000031,CUST0279,R004,2024-12-16,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,13,2
+TKT000032,CUST0058,R004,2024-11-02,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,7,2
+TKT000033,CUST0180,R012,2024-11-29,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,2,4
+TKT000034,CUST0113,R001,2024-10-13,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Open,,
+TKT000035,CUST0243,R006,2024-12-27,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,10,2
+TKT000036,CUST0271,R009,2025-01-04,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,1,3
+TKT000037,CUST0087,R004,2024-12-14,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,7,3
+TKT000038,CUST0171,R009,2025-01-28,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,13,3
+TKT000039,CUST0008,R006,2024-11-27,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,1,2
+TKT000040,CUST0282,R008,2024-11-24,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,8,4
+TKT000041,CUST0194,R011,2024-10-20,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,10,5
+TKT000042,CUST0138,R006,2024-12-02,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,3,3
+TKT000043,CUST0037,R001,2025-01-12,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000044,CUST0246,R005,2024-11-06,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,10,5
+TKT000045,CUST0209,R007,2025-01-01,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,8,5
+TKT000046,CUST0277,R005,2024-11-14,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,5,3
+TKT000047,CUST0001,R009,2025-01-04,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,3,1
+TKT000048,CUST0002,R010,2025-01-01,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,12,3
+TKT000049,CUST0181,R002,2024-11-02,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,9,5
+TKT000050,CUST0120,R009,2024-11-25,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,11,2
+TKT000051,CUST0189,R002,2024-12-19,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Open,,
+TKT000052,CUST0244,R006,2024-11-11,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,5,5
+TKT000053,CUST0279,R012,2025-01-29,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,7,3
+TKT000054,CUST0103,R009,2024-11-28,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,1,4
+TKT000055,CUST0082,R004,2024-11-13,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,6,4
+TKT000056,CUST0228,R009,2024-11-30,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,5,3
+TKT000057,CUST0156,R012,2024-11-27,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000058,CUST0224,R010,2025-01-24,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,3,2
+TKT000059,CUST0273,R009,2024-10-17,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,6,5
+TKT000060,CUST0058,R007,2024-12-31,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,7,2
+TKT000061,CUST0081,R010,2024-10-27,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,13,4
+TKT000062,CUST0299,R005,2024-11-12,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,13,5
+TKT000063,CUST0203,R001,2024-11-08,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,2,1
+TKT000064,CUST0119,R005,2024-12-11,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,11,1
+TKT000065,CUST0086,R001,2024-10-17,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,9,4
+TKT000066,CUST0050,R009,2025-01-23,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Open,,
+TKT000067,CUST0016,R005,2024-11-30,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT000068,CUST0080,R009,2024-10-13,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Open,,
+TKT000069,CUST0154,R011,2024-11-02,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,8,3
+TKT000070,CUST0068,R004,2025-01-22,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,1,4
+TKT000071,CUST0094,R006,2024-11-20,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,9,3
+TKT000072,CUST0060,R002,2024-11-14,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,6,3
+TKT000073,CUST0260,R001,2024-11-12,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,5,4
+TKT000074,CUST0159,R005,2024-10-18,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000075,CUST0165,R004,2025-01-10,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,13,5
+TKT000076,CUST0065,R009,2025-01-27,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,13,2
+TKT000077,CUST0079,R008,2024-10-25,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT000078,CUST0216,R010,2025-01-16,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT000079,CUST0151,R006,2025-01-14,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,10,4
+TKT000080,CUST0102,R012,2025-01-03,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,1,5
+TKT000081,CUST0283,R012,2025-01-18,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,
+TKT000082,CUST0236,R005,2024-10-08,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,14,1
+TKT000083,CUST0261,R006,2024-12-03,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,9,1
+TKT000084,CUST0206,R010,2024-11-05,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,11,3
+TKT000085,CUST0291,R004,2024-10-30,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,6,1
+TKT000086,CUST0293,R006,2024-10-17,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT000087,CUST0013,R008,2024-12-25,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,3,5
+TKT000088,CUST0064,R006,2025-01-14,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,10,4
+TKT000089,CUST0088,R012,2024-11-12,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,6,4
+TKT000090,CUST0153,R006,2024-11-08,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,11,2
+TKT000091,CUST0198,R004,2025-01-22,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,10,5
+TKT000092,CUST0013,R009,2024-11-07,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000093,CUST0038,R004,2024-10-24,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,4,5
+TKT000094,CUST0270,R009,2024-12-06,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT000095,CUST0231,R011,2024-10-26,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,9,1
+TKT000096,CUST0073,R009,2024-10-22,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT000097,CUST0013,R009,2025-01-25,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000098,CUST0029,R001,2024-11-21,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT000099,CUST0177,R011,2025-01-03,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,1,5
+TKT000100,CUST0027,R001,2025-01-13,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000101,CUST0129,R001,2025-01-30,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,4,1
+TKT000102,CUST0161,R006,2024-11-26,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,13,2
+TKT000103,CUST0206,R005,2025-01-18,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,2,1
+TKT000104,CUST0269,R001,2025-01-18,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,3,1
+TKT000105,CUST0259,R005,2024-11-29,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,6,1
+TKT000106,CUST0101,R005,2024-11-27,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,2,4
+TKT000107,CUST0272,R011,2025-01-02,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,4,3
+TKT000108,CUST0104,R001,2024-11-24,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,10,3
+TKT000109,CUST0251,R009,2024-11-20,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,13,2
+TKT000110,CUST0281,R005,2024-10-22,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,12,5
+TKT000111,CUST0186,R006,2025-01-12,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000112,CUST0249,R004,2025-01-26,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,2,4
+TKT000113,CUST0165,R006,2024-11-19,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT000114,CUST0180,R009,2025-01-20,Customer Service,No response to my email sent 2 weeks ago.,negative,Open,,
+TKT000115,CUST0149,R005,2024-10-20,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Open,,
+TKT000116,CUST0021,R001,2024-12-01,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,11,5
+TKT000117,CUST0252,R006,2024-10-05,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,2,5
+TKT000118,CUST0293,R005,2024-11-19,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,6,1
+TKT000119,CUST0277,R006,2024-12-28,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,8,3
+TKT000120,CUST0214,R005,2024-12-12,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,14,5
+TKT000121,CUST0131,R003,2025-02-01,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000122,CUST0112,R004,2024-11-15,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,2,4
+TKT000123,CUST0166,R001,2024-11-07,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,2,5
+TKT000124,CUST0088,R005,2024-11-13,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,9,2
+TKT000125,CUST0166,R001,2024-12-06,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,12,5
+TKT000126,CUST0272,R001,2024-11-01,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,6,4
+TKT000127,CUST0031,R004,2025-01-17,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000128,CUST0084,R010,2024-10-24,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,10,3
+TKT000129,CUST0008,R010,2024-10-11,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,
+TKT000130,CUST0263,R003,2024-10-15,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000131,CUST0024,R005,2024-10-04,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,1,3
+TKT000132,CUST0272,R011,2024-10-18,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,1,5
+TKT000133,CUST0022,R003,2024-11-13,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000134,CUST0093,R001,2024-11-02,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,14,1
+TKT000135,CUST0034,R010,2024-12-02,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT000136,CUST0085,R005,2024-12-04,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,12,1
+TKT000137,CUST0182,R010,2025-01-01,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,13,2
+TKT000138,CUST0292,R009,2024-12-16,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT000139,CUST0187,R010,2024-11-08,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,13,1
+TKT000140,CUST0156,R005,2025-01-30,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT000141,CUST0295,R006,2024-10-31,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,12,1
+TKT000142,CUST0095,R004,2024-12-27,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,4,2
+TKT000143,CUST0096,R001,2024-11-29,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,13,3
+TKT000144,CUST0123,R010,2024-11-24,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,9,4
+TKT000145,CUST0284,R001,2025-01-03,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,5,5
+TKT000146,CUST0196,R006,2025-01-14,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT000147,CUST0164,R011,2025-01-29,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Open,,
+TKT000148,CUST0063,R005,2025-01-30,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,1,4
+TKT000149,CUST0093,R005,2024-11-19,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,3,2
+TKT000150,CUST0010,R006,2024-12-12,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,13,3
+TKT000151,CUST0121,R002,2025-01-05,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000152,CUST0065,R012,2024-10-14,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,8,5
+TKT000153,CUST0255,R011,2024-10-22,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,5,4
+TKT000154,CUST0100,R008,2024-10-25,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,7,5
+TKT000155,CUST0273,R005,2025-01-01,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,11,2
+TKT000156,CUST0186,R012,2024-10-27,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,6,1
+TKT000157,CUST0060,R001,2024-11-13,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Open,,
+TKT000158,CUST0146,R010,2024-11-29,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,10,1
+TKT000159,CUST0106,R005,2024-10-16,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,12,2
+TKT000160,CUST0107,R010,2025-01-31,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,12,5
+TKT000161,CUST0074,R008,2024-10-10,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT000162,CUST0265,R005,2024-11-11,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,1,5
+TKT000163,CUST0056,R002,2025-01-24,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT000164,CUST0082,R001,2024-10-13,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,11,5
+TKT000165,CUST0244,R011,2025-01-24,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,3,3
+TKT000166,CUST0208,R009,2024-11-16,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000167,CUST0200,R005,2024-12-05,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,10,1
+TKT000168,CUST0230,R007,2024-10-13,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,12,4
+TKT000169,CUST0076,R006,2024-12-04,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,12,2
+TKT000170,CUST0269,R009,2024-12-15,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,5,2
+TKT000171,CUST0088,R001,2025-01-09,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,3,3
+TKT000172,CUST0079,R005,2025-01-18,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Open,,
+TKT000173,CUST0267,R006,2024-10-20,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,3,1
+TKT000174,CUST0294,R005,2024-12-23,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000175,CUST0122,R012,2025-01-13,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT000176,CUST0053,R005,2024-12-16,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT000177,CUST0058,R011,2024-11-18,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000178,CUST0059,R007,2024-12-08,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,1,1
+TKT000179,CUST0126,R002,2024-12-21,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,5,3
+TKT000180,CUST0103,R012,2025-01-08,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,10,3
+TKT000181,CUST0153,R010,2024-12-18,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,13,3
+TKT000182,CUST0263,R003,2024-11-26,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,3,1
+TKT000183,CUST0126,R010,2024-12-09,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT000184,CUST0260,R004,2024-10-04,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,2,3
+TKT000185,CUST0190,R010,2024-10-27,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT000186,CUST0133,R008,2024-10-12,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,9,1
+TKT000187,CUST0015,R006,2024-12-30,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,2,1
+TKT000188,CUST0284,R009,2024-11-20,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,9,1
+TKT000189,CUST0031,R009,2024-12-31,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,3,4
+TKT000190,CUST0158,R006,2025-01-29,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT000191,CUST0280,R006,2024-10-12,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,7,5
+TKT000192,CUST0275,R011,2024-11-08,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,5,1
+TKT000193,CUST0293,R008,2025-01-04,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,3,1
+TKT000194,CUST0298,R003,2024-12-23,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,4,2
+TKT000195,CUST0099,R008,2024-11-08,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,5,2
+TKT000196,CUST0279,R009,2024-10-12,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,6,1
+TKT000197,CUST0229,R008,2024-10-08,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,1,2
+TKT000198,CUST0001,R004,2024-12-06,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,3,1
+TKT000199,CUST0248,R004,2024-12-07,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000200,CUST0125,R005,2024-10-29,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT000201,CUST0123,R012,2025-01-31,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,8,4
+TKT000202,CUST0044,R005,2024-11-01,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Open,,
+TKT000203,CUST0099,R008,2024-11-26,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,14,1
+TKT000204,CUST0110,R006,2025-01-22,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,10,5
+TKT000205,CUST0113,R004,2024-11-04,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,12,1
+TKT000206,CUST0280,R007,2025-01-14,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,2,4
+TKT000207,CUST0203,R006,2024-12-14,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,14,4
+TKT000208,CUST0263,R010,2024-11-22,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT000209,CUST0032,R011,2024-11-19,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,5,5
+TKT000210,CUST0125,R004,2024-12-26,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Open,,
+TKT000211,CUST0192,R005,2025-01-03,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000212,CUST0246,R005,2024-10-25,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,3,2
+TKT000213,CUST0177,R005,2024-11-10,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,5,2
+TKT000214,CUST0292,R009,2025-01-01,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,11,2
+TKT000215,CUST0131,R002,2024-12-11,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,10,5
+TKT000216,CUST0145,R002,2024-12-24,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT000217,CUST0025,R005,2024-12-30,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,4,5
+TKT000218,CUST0113,R005,2024-12-01,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,3,3
+TKT000219,CUST0291,R008,2024-11-04,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,4,1
+TKT000220,CUST0070,R009,2025-01-20,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,8,4
+TKT000221,CUST0042,R001,2025-01-22,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,12,5
+TKT000222,CUST0041,R008,2024-12-18,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,12,3
+TKT000223,CUST0253,R009,2024-10-29,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,4,3
+TKT000224,CUST0143,R006,2024-11-22,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,10,1
+TKT000225,CUST0093,R005,2024-10-26,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,6,5
+TKT000226,CUST0025,R008,2024-12-08,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT000227,CUST0034,R005,2024-11-14,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,6,4
+TKT000228,CUST0072,R004,2024-10-05,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,5,2
+TKT000229,CUST0097,R004,2024-11-07,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Open,,
+TKT000230,CUST0081,R011,2024-12-26,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,4,2
+TKT000231,CUST0175,R009,2024-11-11,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,5,2
+TKT000232,CUST0018,R009,2024-11-01,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,8,2
+TKT000233,CUST0017,R002,2024-12-11,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,12,4
+TKT000234,CUST0195,R011,2025-01-31,Booking Issue,Double-charged for seat selection. Please refund.,negative,Open,,
+TKT000235,CUST0299,R009,2024-11-13,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Open,,
+TKT000236,CUST0059,R005,2024-11-28,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,9,3
+TKT000237,CUST0281,R004,2024-10-18,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,11,2
+TKT000238,CUST0247,R010,2024-12-31,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,13,2
+TKT000239,CUST0074,R004,2024-12-16,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,11,3
+TKT000240,CUST0038,R005,2024-11-08,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,11,1
+TKT000241,CUST0042,R011,2025-01-16,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,9,1
+TKT000242,CUST0143,R001,2024-12-27,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,1,2
+TKT000243,CUST0283,R006,2024-11-12,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT000244,CUST0260,R006,2024-11-27,Booking Issue,Double-charged for seat selection. Please refund.,negative,Open,,
+TKT000245,CUST0106,R004,2025-01-09,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,13,1
+TKT000246,CUST0133,R006,2024-10-19,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT000247,CUST0247,R007,2025-01-11,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,12,1
+TKT000248,CUST0292,R006,2025-01-12,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Open,,
+TKT000249,CUST0250,R002,2025-01-17,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,11,2
+TKT000250,CUST0012,R011,2024-11-02,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,4,5
+TKT000251,CUST0168,R006,2025-01-21,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,12,2
+TKT000252,CUST0254,R009,2024-11-27,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT000253,CUST0277,R005,2025-01-28,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Open,,
+TKT000254,CUST0021,R012,2024-12-20,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,2,5
+TKT000255,CUST0178,R009,2024-10-08,Booking Issue,Double-charged for seat selection. Please refund.,negative,Open,,
+TKT000256,CUST0006,R002,2025-01-26,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,11,5
+TKT000257,CUST0207,R007,2024-12-28,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,11,4
+TKT000258,CUST0172,R011,2025-01-11,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,4,4
+TKT000259,CUST0094,R009,2024-12-31,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,3,2
+TKT000260,CUST0220,R011,2025-01-08,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,5,2
+TKT000261,CUST0078,R005,2024-10-23,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,11,2
+TKT000262,CUST0030,R009,2024-10-27,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,10,3
+TKT000263,CUST0124,R004,2025-01-18,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,13,4
+TKT000264,CUST0017,R010,2024-12-11,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT000265,CUST0269,R005,2025-01-17,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Open,,
+TKT000266,CUST0025,R008,2025-01-10,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000267,CUST0141,R006,2024-11-01,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,3,4
+TKT000268,CUST0154,R008,2024-11-02,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,12,4
+TKT000269,CUST0227,R008,2025-01-13,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,6,3
+TKT000270,CUST0205,R004,2024-11-20,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000271,CUST0198,R012,2024-11-15,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,1,5
+TKT000272,CUST0004,R011,2024-12-18,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,10,3
+TKT000273,CUST0197,R005,2024-12-04,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,13,2
+TKT000274,CUST0086,R001,2024-10-13,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,11,4
+TKT000275,CUST0085,R002,2024-11-12,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Open,,
+TKT000276,CUST0017,R006,2024-12-02,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,11,4
+TKT000277,CUST0102,R001,2024-10-13,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT000278,CUST0297,R011,2024-10-20,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,7,1
+TKT000279,CUST0036,R006,2024-12-11,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,11,5
+TKT000280,CUST0003,R005,2025-02-01,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,10,3
+TKT000281,CUST0213,R004,2024-11-12,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT000282,CUST0103,R012,2024-10-27,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT000283,CUST0048,R003,2024-11-18,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,13,3
+TKT000284,CUST0219,R006,2024-12-24,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,5,4
+TKT000285,CUST0066,R001,2024-12-14,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,5,3
+TKT000286,CUST0138,R006,2024-11-11,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,10,3
+TKT000287,CUST0270,R010,2024-11-22,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,7,1
+TKT000288,CUST0169,R004,2024-11-04,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,12,2
+TKT000289,CUST0064,R006,2024-11-07,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,10,2
+TKT000290,CUST0066,R012,2024-10-21,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,7,2
+TKT000291,CUST0086,R005,2025-01-04,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT000292,CUST0098,R005,2024-12-02,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,4,4
+TKT000293,CUST0143,R004,2025-01-29,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,14,5
+TKT000294,CUST0012,R005,2024-11-04,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,6,3
+TKT000295,CUST0039,R009,2025-01-13,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,10,1
+TKT000296,CUST0174,R005,2025-01-08,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,14,3
+TKT000297,CUST0050,R006,2025-01-24,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,1,5
+TKT000298,CUST0272,R009,2024-10-22,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Open,,
+TKT000299,CUST0299,R006,2025-01-04,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,10,5
+TKT000300,CUST0202,R007,2024-10-16,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Open,,
+TKT000301,CUST0291,R012,2024-10-20,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Open,,
+TKT000302,CUST0246,R002,2024-11-14,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,14,5
+TKT000303,CUST0105,R005,2024-11-20,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,13,5
+TKT000304,CUST0243,R002,2024-10-05,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT000305,CUST0152,R006,2024-10-22,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,4,1
+TKT000306,CUST0004,R003,2024-10-21,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,4,3
+TKT000307,CUST0194,R010,2024-10-28,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,6,1
+TKT000308,CUST0244,R006,2024-12-21,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000309,CUST0145,R001,2024-10-28,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,6,4
+TKT000310,CUST0290,R005,2024-12-13,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,4,3
+TKT000311,CUST0286,R011,2025-01-31,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,3,1
+TKT000312,CUST0210,R010,2024-10-27,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,4,1
+TKT000313,CUST0135,R001,2024-12-07,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,11,4
+TKT000314,CUST0144,R009,2024-12-13,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,11,3
+TKT000315,CUST0299,R009,2024-11-21,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,1,1
+TKT000316,CUST0168,R008,2024-10-12,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,4,3
+TKT000317,CUST0157,R004,2024-12-11,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,14,3
+TKT000318,CUST0043,R012,2024-11-27,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,3,4
+TKT000319,CUST0242,R009,2024-10-29,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Open,,
+TKT000320,CUST0152,R007,2024-10-21,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,10,1
+TKT000321,CUST0227,R004,2024-11-01,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Open,,
+TKT000322,CUST0193,R006,2024-12-28,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,13,4
+TKT000323,CUST0171,R005,2024-10-22,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,10,3
+TKT000324,CUST0217,R004,2024-12-25,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,1,2
+TKT000325,CUST0172,R011,2025-01-16,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,4,2
+TKT000326,CUST0263,R004,2024-10-20,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,8,5
+TKT000327,CUST0038,R009,2024-12-01,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,3,3
+TKT000328,CUST0011,R001,2025-01-29,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,11,5
+TKT000329,CUST0038,R006,2024-12-25,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,8,3
+TKT000330,CUST0138,R005,2025-01-30,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,7,3
+TKT000331,CUST0029,R007,2024-10-23,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,8,2
+TKT000332,CUST0099,R005,2024-10-23,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,1,4
+TKT000333,CUST0071,R005,2025-01-29,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,12,2
+TKT000334,CUST0056,R012,2024-11-30,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,2,2
+TKT000335,CUST0118,R002,2024-12-10,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,9,1
+TKT000336,CUST0016,R004,2024-11-26,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,12,5
+TKT000337,CUST0193,R001,2025-01-21,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Open,,
+TKT000338,CUST0175,R004,2024-12-19,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000339,CUST0259,R002,2024-12-31,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,10,1
+TKT000340,CUST0290,R006,2024-11-22,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,4,2
+TKT000341,CUST0179,R006,2025-01-21,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,3,1
+TKT000342,CUST0153,R005,2024-12-18,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,7,2
+TKT000343,CUST0130,R011,2024-10-29,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,5,4
+TKT000344,CUST0084,R010,2025-01-19,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,9,1
+TKT000345,CUST0005,R004,2025-01-22,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,11,4
+TKT000346,CUST0012,R009,2024-10-28,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,8,4
+TKT000347,CUST0064,R004,2024-11-27,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,4,2
+TKT000348,CUST0238,R012,2024-11-02,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,8,4
+TKT000349,CUST0243,R006,2024-12-15,Booking Issue,Double-charged for seat selection. Please refund.,negative,Open,,
+TKT000350,CUST0012,R001,2024-10-22,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,3,1
+TKT000351,CUST0286,R008,2024-12-18,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,2,3
+TKT000352,CUST0040,R011,2024-10-09,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT000353,CUST0128,R005,2024-11-02,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,8,2
+TKT000354,CUST0078,R008,2024-12-28,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,3,1
+TKT000355,CUST0152,R005,2024-12-22,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,11,5
+TKT000356,CUST0208,R005,2024-11-01,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,13,1
+TKT000357,CUST0058,R001,2024-10-12,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,2,2
+TKT000358,CUST0166,R010,2025-01-12,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Open,,
+TKT000359,CUST0130,R009,2024-12-11,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000360,CUST0128,R005,2024-11-11,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,2,5
+TKT000361,CUST0273,R002,2024-10-11,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,5,2
+TKT000362,CUST0118,R010,2024-10-26,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,9,4
+TKT000363,CUST0237,R005,2024-12-09,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,12,4
+TKT000364,CUST0160,R007,2025-01-07,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,12,1
+TKT000365,CUST0213,R006,2024-12-27,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT000366,CUST0179,R007,2024-10-26,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Open,,
+TKT000367,CUST0189,R001,2024-10-24,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,9,2
+TKT000368,CUST0207,R009,2025-02-01,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,10,1
+TKT000369,CUST0176,R002,2025-01-17,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,10,5
+TKT000370,CUST0300,R008,2025-01-01,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000371,CUST0200,R009,2024-11-27,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,12,2
+TKT000372,CUST0050,R009,2025-01-07,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT000373,CUST0214,R005,2024-10-04,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,1,3
+TKT000374,CUST0064,R009,2024-12-13,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,6,5
+TKT000375,CUST0133,R008,2024-12-27,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,13,1
+TKT000376,CUST0072,R005,2025-01-17,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,7,2
+TKT000377,CUST0204,R010,2025-01-24,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,10,4
+TKT000378,CUST0166,R008,2025-01-16,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,12,5
+TKT000379,CUST0290,R005,2025-01-28,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,14,4
+TKT000380,CUST0252,R003,2024-12-13,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,13,1
+TKT000381,CUST0099,R001,2025-01-13,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000382,CUST0262,R011,2024-12-29,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,9,2
+TKT000383,CUST0006,R005,2024-12-10,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,12,1
+TKT000384,CUST0284,R005,2024-10-16,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,7,5
+TKT000385,CUST0247,R003,2024-10-16,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,14,3
+TKT000386,CUST0032,R004,2024-12-20,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,7,1
+TKT000387,CUST0208,R006,2024-12-18,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,14,5
+TKT000388,CUST0083,R007,2024-12-27,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,12,1
+TKT000389,CUST0273,R012,2024-11-21,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,14,5
+TKT000390,CUST0136,R005,2024-12-16,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,3,3
+TKT000391,CUST0078,R005,2025-01-26,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,6,3
+TKT000392,CUST0135,R004,2025-01-09,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,5,2
+TKT000393,CUST0246,R006,2024-12-23,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,13,5
+TKT000394,CUST0006,R005,2025-01-09,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,10,4
+TKT000395,CUST0037,R006,2024-11-12,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,8,3
+TKT000396,CUST0068,R006,2024-11-24,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,9,2
+TKT000397,CUST0203,R009,2024-11-25,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,5,5
+TKT000398,CUST0220,R011,2024-11-21,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,10,5
+TKT000399,CUST0083,R001,2024-12-27,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,13,4
+TKT000400,CUST0077,R010,2025-01-18,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,1,2
+TKT000401,CUST0267,R005,2024-11-24,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,10,1
+TKT000402,CUST0196,R010,2024-11-18,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,13,2
+TKT000403,CUST0297,R001,2025-01-23,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,1,4
+TKT000404,CUST0014,R004,2024-12-22,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,8,1
+TKT000405,CUST0109,R006,2024-10-23,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,8,3
+TKT000406,CUST0058,R011,2024-12-29,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,7,4
+TKT000407,CUST0295,R002,2024-12-25,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Open,,
+TKT000408,CUST0078,R005,2024-10-28,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,9,3
+TKT000409,CUST0231,R005,2025-01-28,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,1,1
+TKT000410,CUST0010,R006,2024-10-07,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000411,CUST0198,R009,2024-10-10,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000412,CUST0249,R011,2024-12-19,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,1,4
+TKT000413,CUST0230,R006,2025-01-27,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,14,3
+TKT000414,CUST0086,R003,2025-01-12,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,2,3
+TKT000415,CUST0172,R007,2024-11-13,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,13,2
+TKT000416,CUST0135,R004,2024-11-15,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Open,,
+TKT000417,CUST0004,R005,2024-12-04,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,5,5
+TKT000418,CUST0239,R004,2024-12-19,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,3,2
+TKT000419,CUST0006,R006,2024-10-21,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,12,3
+TKT000420,CUST0138,R004,2024-10-04,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,7,2
+TKT000421,CUST0122,R008,2024-11-03,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,11,4
+TKT000422,CUST0162,R006,2024-12-25,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,4,5
+TKT000423,CUST0094,R005,2024-12-13,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,3,5
+TKT000424,CUST0020,R008,2024-10-21,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,6,1
+TKT000425,CUST0109,R005,2024-11-20,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,8,1
+TKT000426,CUST0229,R005,2024-11-19,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,2,3
+TKT000427,CUST0280,R005,2025-01-09,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,4,3
+TKT000428,CUST0224,R009,2025-01-05,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,12,3
+TKT000429,CUST0200,R002,2024-11-18,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,12,2
+TKT000430,CUST0085,R004,2024-10-08,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,8,2
+TKT000431,CUST0051,R004,2025-01-23,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,12,2
+TKT000432,CUST0264,R004,2024-11-27,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,9,4
+TKT000433,CUST0275,R006,2024-11-18,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,8,2
+TKT000434,CUST0069,R001,2024-11-13,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,6,1
+TKT000435,CUST0172,R005,2025-01-30,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,4,4
+TKT000436,CUST0122,R009,2024-12-08,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,2,4
+TKT000437,CUST0045,R008,2024-12-06,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000438,CUST0075,R006,2024-12-18,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,5,2
+TKT000439,CUST0109,R009,2024-11-05,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,11,4
+TKT000440,CUST0081,R004,2024-12-17,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,12,1
+TKT000441,CUST0013,R001,2024-11-02,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,9,2
+TKT000442,CUST0253,R010,2024-10-16,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,9,5
+TKT000443,CUST0031,R005,2024-12-26,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,5,5
+TKT000444,CUST0136,R009,2024-12-17,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,3,5
+TKT000445,CUST0175,R011,2024-11-15,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,10,3
+TKT000446,CUST0279,R009,2025-01-19,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,3,2
+TKT000447,CUST0292,R001,2025-01-16,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT000448,CUST0214,R006,2025-01-27,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000449,CUST0028,R001,2024-11-11,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,5,3
+TKT000450,CUST0080,R009,2024-12-06,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,3,5
+TKT000451,CUST0017,R002,2024-10-30,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,6,4
+TKT000452,CUST0285,R010,2024-12-21,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,8,5
+TKT000453,CUST0273,R001,2025-01-25,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,12,1
+TKT000454,CUST0206,R005,2024-10-22,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,7,4
+TKT000455,CUST0205,R006,2024-10-15,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,11,3
+TKT000456,CUST0031,R009,2025-01-07,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000457,CUST0235,R010,2024-10-06,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,2,1
+TKT000458,CUST0123,R006,2024-11-04,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,9,5
+TKT000459,CUST0081,R012,2024-11-17,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Open,,
+TKT000460,CUST0087,R009,2024-11-14,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,13,1
+TKT000461,CUST0269,R010,2024-11-14,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000462,CUST0161,R002,2024-11-24,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000463,CUST0189,R005,2024-10-30,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,7,2
+TKT000464,CUST0117,R011,2024-12-08,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,7,5
+TKT000465,CUST0115,R004,2025-01-02,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT000466,CUST0020,R005,2024-10-15,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,5,4
+TKT000467,CUST0207,R008,2025-01-17,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,10,4
+TKT000468,CUST0117,R006,2024-10-16,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,4,4
+TKT000469,CUST0146,R012,2025-01-28,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT000470,CUST0027,R006,2024-12-19,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,13,4
+TKT000471,CUST0184,R005,2024-10-26,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,7,3
+TKT000472,CUST0071,R004,2024-10-08,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,10,3
+TKT000473,CUST0182,R007,2024-11-25,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,1,3
+TKT000474,CUST0067,R012,2024-10-21,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,4,1
+TKT000475,CUST0116,R004,2024-10-21,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,9,1
+TKT000476,CUST0247,R004,2024-10-18,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,10,2
+TKT000477,CUST0132,R006,2024-11-25,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,1,4
+TKT000478,CUST0274,R005,2024-12-15,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT000479,CUST0199,R006,2024-12-01,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,14,3
+TKT000480,CUST0273,R002,2025-01-07,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,3,1
+TKT000481,CUST0245,R005,2025-01-15,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,9,1
+TKT000482,CUST0083,R009,2024-10-29,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,4,5
+TKT000483,CUST0243,R006,2024-12-08,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT000484,CUST0191,R004,2024-11-30,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT000485,CUST0199,R004,2024-12-22,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,6,2
+TKT000486,CUST0059,R006,2024-10-27,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,7,2
+TKT000487,CUST0201,R005,2024-10-12,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,3,1
+TKT000488,CUST0234,R007,2024-12-02,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Open,,
+TKT000489,CUST0142,R009,2024-12-31,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,12,3
+TKT000490,CUST0189,R002,2025-01-11,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000491,CUST0298,R006,2025-01-03,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,2,2
+TKT000492,CUST0104,R003,2024-12-18,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,9,4
+TKT000493,CUST0291,R003,2024-10-30,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000494,CUST0034,R005,2024-10-27,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,5,2
+TKT000495,CUST0107,R005,2024-10-08,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Open,,
+TKT000496,CUST0112,R005,2024-10-31,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000497,CUST0033,R001,2024-10-11,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,3,1
+TKT000498,CUST0161,R001,2024-11-23,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,7,2
+TKT000499,CUST0063,R001,2024-10-05,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,8,5
+TKT000500,CUST0181,R005,2024-10-21,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,13,5
+TKT000501,CUST0115,R012,2024-12-21,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,4,1
+TKT000502,CUST0050,R008,2024-10-30,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,7,5
+TKT000503,CUST0185,R001,2024-12-06,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT000504,CUST0150,R002,2025-01-23,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,13,4
+TKT000505,CUST0146,R009,2024-10-25,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,2,1
+TKT000506,CUST0220,R005,2024-10-22,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,13,3
+TKT000507,CUST0108,R004,2024-11-19,Booking Issue,Double-charged for seat selection. Please refund.,negative,Open,,
+TKT000508,CUST0194,R001,2025-01-08,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT000509,CUST0225,R012,2024-12-17,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,12,4
+TKT000510,CUST0223,R010,2024-12-29,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT000511,CUST0102,R007,2025-01-30,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT000512,CUST0162,R005,2025-01-04,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,11,2
+TKT000513,CUST0107,R004,2024-12-17,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,2,4
+TKT000514,CUST0068,R001,2024-11-13,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,9,5
+TKT000515,CUST0233,R011,2024-12-12,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,13,3
+TKT000516,CUST0053,R009,2024-12-04,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,13,2
+TKT000517,CUST0135,R004,2024-12-07,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,5,4
+TKT000518,CUST0001,R004,2025-01-17,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,2,5
+TKT000519,CUST0036,R002,2024-10-14,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,1,1
+TKT000520,CUST0238,R005,2024-11-23,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,12,2
+TKT000521,CUST0206,R010,2024-12-12,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,7,4
+TKT000522,CUST0158,R011,2024-11-01,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,9,4
+TKT000523,CUST0010,R005,2024-10-25,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT000524,CUST0141,R003,2025-01-22,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Open,,
+TKT000525,CUST0277,R001,2024-10-11,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT000526,CUST0083,R006,2025-01-07,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,7,4
+TKT000527,CUST0296,R004,2024-12-09,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,13,5
+TKT000528,CUST0083,R012,2025-01-14,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT000529,CUST0289,R006,2024-12-15,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,11,2
+TKT000530,CUST0235,R003,2025-02-01,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,12,4
+TKT000531,CUST0287,R009,2024-12-12,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,6,3
+TKT000532,CUST0030,R006,2024-11-27,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,5,2
+TKT000533,CUST0268,R001,2024-11-08,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,4,4
+TKT000534,CUST0243,R002,2024-11-30,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Open,,
+TKT000535,CUST0205,R002,2024-12-27,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,11,3
+TKT000536,CUST0039,R005,2024-10-23,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,4,3
+TKT000537,CUST0149,R009,2024-10-30,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,4,3
+TKT000538,CUST0246,R005,2025-02-01,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,10,3
+TKT000539,CUST0268,R004,2024-11-28,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,12,1
+TKT000540,CUST0169,R001,2025-01-15,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000541,CUST0182,R009,2024-10-23,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,11,5
+TKT000542,CUST0015,R005,2024-10-23,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,7,1
+TKT000543,CUST0131,R006,2024-11-06,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,3,4
+TKT000544,CUST0042,R004,2024-11-25,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,4,4
+TKT000545,CUST0047,R001,2025-01-10,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,3,5
+TKT000546,CUST0022,R008,2025-02-01,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT000547,CUST0258,R003,2024-12-15,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Open,,
+TKT000548,CUST0233,R008,2024-10-11,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,3,1
+TKT000549,CUST0156,R004,2024-10-20,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,9,2
+TKT000550,CUST0090,R005,2024-10-29,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,3,5
+TKT000551,CUST0298,R009,2024-11-17,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Open,,
+TKT000552,CUST0142,R008,2024-10-05,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,7,4
+TKT000553,CUST0128,R009,2024-11-12,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,1,3
+TKT000554,CUST0022,R008,2024-11-01,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,5,1
+TKT000555,CUST0030,R002,2024-11-19,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,12,2
+TKT000556,CUST0242,R012,2024-11-06,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT000557,CUST0256,R006,2024-12-11,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT000558,CUST0285,R011,2024-12-28,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,7,1
+TKT000559,CUST0097,R006,2025-01-31,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,7,2
+TKT000560,CUST0265,R004,2025-01-25,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,14,5
+TKT000561,CUST0253,R005,2024-12-03,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,2,5
+TKT000562,CUST0073,R001,2024-11-25,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,2,5
+TKT000563,CUST0185,R004,2024-10-20,Customer Service,No response to my email sent 2 weeks ago.,negative,Open,,
+TKT000564,CUST0105,R010,2024-11-12,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,12,5
+TKT000565,CUST0091,R003,2025-01-13,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,14,3
+TKT000566,CUST0056,R007,2024-11-05,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,3,4
+TKT000567,CUST0099,R008,2025-01-10,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000568,CUST0046,R008,2024-12-10,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT000569,CUST0094,R004,2024-11-12,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT000570,CUST0283,R006,2024-12-10,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,10,5
+TKT000571,CUST0198,R001,2024-11-17,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,14,1
+TKT000572,CUST0058,R012,2024-11-12,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000573,CUST0289,R009,2024-11-04,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,2,4
+TKT000574,CUST0208,R001,2024-10-04,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,4,4
+TKT000575,CUST0213,R003,2024-10-10,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,4,1
+TKT000576,CUST0291,R012,2024-12-13,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,10,5
+TKT000577,CUST0148,R011,2024-10-08,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,4,3
+TKT000578,CUST0238,R011,2024-10-17,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,8,1
+TKT000579,CUST0074,R006,2024-11-26,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000580,CUST0125,R009,2025-01-09,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,6,5
+TKT000581,CUST0102,R004,2025-01-17,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,14,3
+TKT000582,CUST0071,R011,2024-11-29,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,6,5
+TKT000583,CUST0031,R003,2024-12-14,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,14,4
+TKT000584,CUST0273,R006,2024-12-19,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,12,2
+TKT000585,CUST0051,R006,2024-10-07,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,9,5
+TKT000586,CUST0192,R006,2024-12-29,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,13,3
+TKT000587,CUST0133,R006,2024-12-05,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,4,4
+TKT000588,CUST0190,R010,2024-10-27,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,9,1
+TKT000589,CUST0289,R008,2024-12-02,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,9,1
+TKT000590,CUST0153,R003,2024-10-28,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,3,2
+TKT000591,CUST0292,R010,2024-11-23,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,13,5
+TKT000592,CUST0268,R008,2024-11-06,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,8,1
+TKT000593,CUST0240,R005,2024-10-12,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,12,1
+TKT000594,CUST0218,R004,2024-10-15,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,12,4
+TKT000595,CUST0163,R011,2024-10-04,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,1,2
+TKT000596,CUST0195,R005,2025-01-10,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,13,3
+TKT000597,CUST0161,R010,2024-12-16,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000598,CUST0004,R006,2024-10-07,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT000599,CUST0031,R011,2025-01-16,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Open,,
+TKT000600,CUST0088,R001,2024-12-03,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,13,5
+TKT000601,CUST0148,R012,2024-11-02,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,10,3
+TKT000602,CUST0296,R004,2024-11-14,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000603,CUST0234,R002,2024-11-06,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,3,5
+TKT000604,CUST0292,R010,2024-11-13,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,9,3
+TKT000605,CUST0154,R005,2024-12-12,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,8,3
+TKT000606,CUST0130,R009,2025-01-09,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,9,1
+TKT000607,CUST0088,R005,2025-01-09,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,10,4
+TKT000608,CUST0021,R003,2024-11-10,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,7,3
+TKT000609,CUST0066,R005,2024-11-18,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT000610,CUST0005,R002,2024-12-02,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000611,CUST0161,R005,2024-12-11,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,13,2
+TKT000612,CUST0178,R006,2024-12-05,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,4,5
+TKT000613,CUST0293,R001,2025-01-17,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Open,,
+TKT000614,CUST0075,R004,2024-11-22,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Open,,
+TKT000615,CUST0056,R005,2024-11-24,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,8,5
+TKT000616,CUST0217,R006,2024-11-26,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,3,1
+TKT000617,CUST0018,R005,2024-10-22,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,2,3
+TKT000618,CUST0191,R004,2024-11-26,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,6,5
+TKT000619,CUST0233,R002,2025-01-18,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,1,1
+TKT000620,CUST0199,R009,2024-12-18,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,3,1
+TKT000621,CUST0129,R008,2024-10-04,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,1,4
+TKT000622,CUST0150,R004,2024-12-19,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,7,3
+TKT000623,CUST0114,R009,2024-11-25,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,12,4
+TKT000624,CUST0158,R006,2024-11-17,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,7,5
+TKT000625,CUST0127,R009,2024-11-06,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Open,,
+TKT000626,CUST0083,R003,2024-12-01,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,3,1
+TKT000627,CUST0033,R009,2024-12-04,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000628,CUST0186,R009,2024-11-27,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,8,4
+TKT000629,CUST0072,R003,2024-10-18,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,14,5
+TKT000630,CUST0153,R006,2025-01-18,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,10,1
+TKT000631,CUST0020,R004,2024-10-07,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,12,5
+TKT000632,CUST0143,R009,2024-12-29,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,8,1
+TKT000633,CUST0001,R001,2024-12-02,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,13,1
+TKT000634,CUST0173,R011,2025-01-30,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Open,,
+TKT000635,CUST0218,R011,2024-12-17,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000636,CUST0017,R004,2025-01-29,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,10,1
+TKT000637,CUST0206,R010,2025-01-12,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,4,5
+TKT000638,CUST0218,R001,2025-01-06,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,6,3
+TKT000639,CUST0256,R001,2024-10-17,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,4,2
+TKT000640,CUST0290,R006,2024-10-27,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,2,2
+TKT000641,CUST0093,R011,2024-11-17,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,5,5
+TKT000642,CUST0119,R009,2025-01-03,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,7,3
+TKT000643,CUST0184,R010,2024-11-18,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,10,4
+TKT000644,CUST0231,R004,2024-10-06,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,1,3
+TKT000645,CUST0183,R009,2025-01-08,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,14,1
+TKT000646,CUST0223,R003,2024-12-15,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,14,2
+TKT000647,CUST0221,R006,2025-01-27,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,14,3
+TKT000648,CUST0188,R010,2024-11-06,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,1,5
+TKT000649,CUST0042,R004,2024-11-04,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,
+TKT000650,CUST0299,R012,2024-10-23,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,11,3
+TKT000651,CUST0194,R005,2024-11-16,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,13,2
+TKT000652,CUST0269,R010,2024-12-31,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,10,2
+TKT000653,CUST0035,R009,2025-01-20,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT000654,CUST0075,R011,2025-01-15,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,6,5
+TKT000655,CUST0097,R009,2024-10-19,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000656,CUST0091,R012,2024-10-24,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,1,4
+TKT000657,CUST0012,R009,2025-01-28,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,10,1
+TKT000658,CUST0257,R002,2024-10-29,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000659,CUST0021,R006,2024-10-12,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,7,2
+TKT000660,CUST0115,R006,2024-12-15,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Open,,
+TKT000661,CUST0139,R005,2024-10-27,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,2,1
+TKT000662,CUST0137,R006,2025-02-01,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,5,4
+TKT000663,CUST0014,R005,2024-11-05,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,3,1
+TKT000664,CUST0225,R011,2024-10-07,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT000665,CUST0246,R006,2024-11-13,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,5,1
+TKT000666,CUST0266,R004,2024-12-31,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000667,CUST0026,R005,2024-10-30,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,3,1
+TKT000668,CUST0041,R006,2024-12-09,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,8,5
+TKT000669,CUST0082,R006,2024-11-20,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,5,2
+TKT000670,CUST0060,R003,2025-01-02,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,11,3
+TKT000671,CUST0113,R008,2025-01-06,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,1,3
+TKT000672,CUST0119,R009,2024-12-06,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,14,5
+TKT000673,CUST0244,R004,2024-12-18,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,9,4
+TKT000674,CUST0202,R005,2024-10-25,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,12,5
+TKT000675,CUST0170,R008,2025-01-25,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,11,5
+TKT000676,CUST0072,R006,2025-01-11,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,7,2
+TKT000677,CUST0005,R005,2024-11-07,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,3,5
+TKT000678,CUST0230,R009,2025-01-06,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,13,5
+TKT000679,CUST0138,R005,2025-01-23,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,13,1
+TKT000680,CUST0203,R006,2024-10-25,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,5,4
+TKT000681,CUST0090,R003,2025-01-24,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000682,CUST0224,R001,2024-11-04,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,2,5
+TKT000683,CUST0216,R006,2024-11-23,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000684,CUST0154,R008,2024-10-04,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,14,3
+TKT000685,CUST0167,R010,2024-11-28,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Open,,
+TKT000686,CUST0198,R001,2025-01-03,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Open,,
+TKT000687,CUST0284,R001,2024-11-04,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,4,5
+TKT000688,CUST0244,R007,2024-10-15,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT000689,CUST0173,R006,2024-11-26,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,9,2
+TKT000690,CUST0135,R006,2024-11-08,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,11,4
+TKT000691,CUST0176,R010,2024-11-23,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,12,5
+TKT000692,CUST0004,R009,2024-11-14,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT000693,CUST0161,R003,2025-01-17,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,3,2
+TKT000694,CUST0137,R008,2025-01-12,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,1,5
+TKT000695,CUST0125,R004,2024-10-21,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,12,1
+TKT000696,CUST0252,R005,2024-10-18,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,4,4
+TKT000697,CUST0247,R003,2024-11-19,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,7,1
+TKT000698,CUST0062,R005,2024-10-27,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,1,3
+TKT000699,CUST0182,R010,2025-01-21,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,9,1
+TKT000700,CUST0056,R012,2024-10-26,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,3,2
+TKT000701,CUST0023,R004,2025-01-10,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,13,4
+TKT000702,CUST0001,R003,2025-01-13,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000703,CUST0168,R010,2024-10-25,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,5,5
+TKT000704,CUST0154,R005,2024-11-26,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,1,3
+TKT000705,CUST0019,R008,2025-01-05,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,2,1
+TKT000706,CUST0253,R012,2024-12-07,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,11,3
+TKT000707,CUST0277,R006,2024-11-23,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,4,5
+TKT000708,CUST0004,R006,2024-12-04,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,5,1
+TKT000709,CUST0183,R004,2024-11-10,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Open,,
+TKT000710,CUST0151,R004,2024-10-14,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,8,3
+TKT000711,CUST0271,R010,2024-10-20,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,7,2
+TKT000712,CUST0199,R005,2024-12-27,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,12,5
+TKT000713,CUST0025,R005,2024-10-08,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,3,4
+TKT000714,CUST0043,R006,2024-10-05,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,5,3
+TKT000715,CUST0265,R001,2024-10-06,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,4,3
+TKT000716,CUST0178,R005,2025-01-27,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Open,,
+TKT000717,CUST0005,R005,2024-11-04,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Open,,
+TKT000718,CUST0059,R006,2025-01-16,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,12,1
+TKT000719,CUST0096,R006,2024-11-26,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,14,4
+TKT000720,CUST0104,R011,2025-01-10,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,9,5
+TKT000721,CUST0160,R005,2024-12-29,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,14,1
+TKT000722,CUST0230,R005,2024-10-30,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,14,5
+TKT000723,CUST0266,R008,2024-11-24,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Open,,
+TKT000724,CUST0297,R009,2024-12-16,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000725,CUST0213,R010,2024-12-25,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,7,1
+TKT000726,CUST0092,R006,2024-10-07,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,4,2
+TKT000727,CUST0253,R010,2024-12-16,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,11,4
+TKT000728,CUST0207,R004,2025-01-10,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,14,5
+TKT000729,CUST0153,R009,2024-12-14,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT000730,CUST0151,R012,2024-10-15,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,1,3
+TKT000731,CUST0010,R007,2024-10-24,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Open,,
+TKT000732,CUST0124,R009,2024-12-29,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,6,3
+TKT000733,CUST0098,R008,2024-11-09,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,10,5
+TKT000734,CUST0086,R012,2024-10-12,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,14,5
+TKT000735,CUST0075,R005,2024-10-24,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,5,2
+TKT000736,CUST0134,R006,2025-01-15,Customer Service,No response to my email sent 2 weeks ago.,negative,Open,,
+TKT000737,CUST0005,R003,2024-12-02,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,2,4
+TKT000738,CUST0001,R006,2024-12-25,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,4,3
+TKT000739,CUST0248,R010,2024-11-21,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,5,5
+TKT000740,CUST0079,R011,2024-11-15,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT000741,CUST0114,R011,2024-10-10,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,3,3
+TKT000742,CUST0063,R001,2024-12-08,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,1,4
+TKT000743,CUST0070,R003,2024-12-13,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000744,CUST0013,R010,2024-11-14,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,1,1
+TKT000745,CUST0124,R005,2024-11-16,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,3,4
+TKT000746,CUST0271,R007,2024-11-27,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,11,1
+TKT000747,CUST0279,R009,2024-10-25,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,7,2
+TKT000748,CUST0169,R001,2024-11-03,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,8,1
+TKT000749,CUST0184,R007,2024-12-29,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,5,3
+TKT000750,CUST0108,R004,2024-12-25,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,9,1
+TKT000751,CUST0293,R001,2025-01-15,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,11,2
+TKT000752,CUST0298,R004,2024-11-25,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,10,1
+TKT000753,CUST0285,R011,2024-11-19,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000754,CUST0211,R003,2024-11-24,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,12,2
+TKT000755,CUST0107,R007,2024-10-20,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,5,2
+TKT000756,CUST0004,R005,2024-10-09,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,4,4
+TKT000757,CUST0201,R004,2025-01-13,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,5,2
+TKT000758,CUST0132,R010,2024-12-12,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Open,,
+TKT000759,CUST0119,R010,2024-12-09,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,12,4
+TKT000760,CUST0210,R005,2024-11-27,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Open,,
+TKT000761,CUST0224,R009,2024-11-25,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,2,2
+TKT000762,CUST0216,R005,2025-01-28,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,11,2
+TKT000763,CUST0270,R002,2024-12-20,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,3,2
+TKT000764,CUST0223,R012,2024-11-22,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,2,4
+TKT000765,CUST0130,R012,2024-10-28,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,7,5
+TKT000766,CUST0233,R012,2024-12-18,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,10,2
+TKT000767,CUST0014,R005,2024-12-14,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,12,4
+TKT000768,CUST0012,R005,2024-10-05,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,4,3
+TKT000769,CUST0086,R006,2025-01-26,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,4,1
+TKT000770,CUST0179,R005,2024-10-23,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,7,1
+TKT000771,CUST0145,R001,2024-10-10,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,11,4
+TKT000772,CUST0118,R003,2025-01-06,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,4,1
+TKT000773,CUST0144,R010,2024-10-31,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,1,2
+TKT000774,CUST0235,R006,2025-01-27,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,9,4
+TKT000775,CUST0239,R002,2024-12-25,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,11,4
+TKT000776,CUST0141,R004,2025-01-28,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Open,,
+TKT000777,CUST0149,R001,2024-10-07,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,8,4
+TKT000778,CUST0153,R005,2024-12-14,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,7,5
+TKT000779,CUST0228,R011,2024-12-26,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,6,5
+TKT000780,CUST0264,R002,2024-11-04,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,1,4
+TKT000781,CUST0018,R007,2024-12-16,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,8,2
+TKT000782,CUST0088,R009,2024-11-12,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Open,,
+TKT000783,CUST0167,R011,2024-11-13,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000784,CUST0077,R001,2025-01-20,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,1,1
+TKT000785,CUST0094,R006,2024-10-13,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,6,1
+TKT000786,CUST0086,R004,2024-10-09,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Open,,
+TKT000787,CUST0089,R005,2024-12-18,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT000788,CUST0116,R006,2024-11-11,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,13,3
+TKT000789,CUST0222,R010,2024-11-09,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,1,3
+TKT000790,CUST0136,R006,2024-11-26,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,13,2
+TKT000791,CUST0082,R005,2024-11-25,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,13,5
+TKT000792,CUST0085,R001,2024-10-15,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,4,2
+TKT000793,CUST0063,R010,2024-11-18,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,5,1
+TKT000794,CUST0061,R007,2024-12-08,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Open,,
+TKT000795,CUST0094,R005,2025-01-26,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,5,3
+TKT000796,CUST0120,R009,2024-12-20,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,7,1
+TKT000797,CUST0283,R008,2024-11-09,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Open,,
+TKT000798,CUST0017,R011,2025-01-26,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,9,1
+TKT000799,CUST0242,R012,2024-10-26,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT000800,CUST0024,R006,2024-11-23,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,13,1
+TKT000801,CUST0172,R004,2024-12-13,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,5,1
+TKT000802,CUST0286,R008,2024-11-23,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,10,3
+TKT000803,CUST0212,R002,2025-01-02,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,14,2
+TKT000804,CUST0120,R005,2025-01-31,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT000805,CUST0133,R012,2024-12-07,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,1,4
+TKT000806,CUST0150,R006,2024-12-04,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,1,5
+TKT000807,CUST0147,R003,2024-12-19,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,2,2
+TKT000808,CUST0016,R001,2025-01-15,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,2,1
+TKT000809,CUST0084,R005,2024-10-10,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,13,4
+TKT000810,CUST0160,R004,2024-10-08,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,8,2
+TKT000811,CUST0243,R003,2024-12-29,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000812,CUST0259,R006,2024-11-10,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,12,1
+TKT000813,CUST0067,R010,2024-10-14,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,2,3
+TKT000814,CUST0188,R005,2024-11-16,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,10,3
+TKT000815,CUST0200,R005,2024-10-20,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,3,3
+TKT000816,CUST0183,R009,2024-11-02,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,3,4
+TKT000817,CUST0009,R001,2024-11-20,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,9,4
+TKT000818,CUST0003,R001,2024-10-10,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,14,4
+TKT000819,CUST0186,R004,2025-01-18,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT000820,CUST0153,R001,2024-11-07,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,10,5
+TKT000821,CUST0070,R006,2024-12-18,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000822,CUST0104,R003,2024-10-22,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,1,3
+TKT000823,CUST0110,R003,2024-12-15,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,10,3
+TKT000824,CUST0020,R004,2024-11-23,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000825,CUST0025,R007,2025-01-22,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,6,4
+TKT000826,CUST0168,R011,2024-12-23,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,3,1
+TKT000827,CUST0113,R005,2024-12-31,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,6,5
+TKT000828,CUST0118,R002,2025-01-03,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,7,3
+TKT000829,CUST0265,R007,2025-01-09,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,7,2
+TKT000830,CUST0101,R010,2024-10-23,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000831,CUST0278,R007,2024-11-21,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000832,CUST0161,R012,2024-11-12,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,1,4
+TKT000833,CUST0181,R001,2025-01-08,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,7,1
+TKT000834,CUST0175,R002,2024-12-07,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,2,3
+TKT000835,CUST0117,R012,2024-11-02,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,11,1
+TKT000836,CUST0051,R005,2024-10-10,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,8,3
+TKT000837,CUST0120,R002,2024-11-04,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,5,4
+TKT000838,CUST0247,R006,2025-01-05,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,4,1
+TKT000839,CUST0242,R008,2024-11-13,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,2,5
+TKT000840,CUST0025,R011,2024-12-24,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,7,4
+TKT000841,CUST0083,R012,2024-12-17,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Open,,
+TKT000842,CUST0143,R005,2025-01-24,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,10,4
+TKT000843,CUST0257,R004,2024-12-13,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,6,4
+TKT000844,CUST0140,R001,2025-01-20,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,12,1
+TKT000845,CUST0207,R006,2024-12-15,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT000846,CUST0220,R001,2024-10-31,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000847,CUST0300,R009,2024-10-31,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,3,2
+TKT000848,CUST0234,R006,2024-10-09,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,
+TKT000849,CUST0070,R005,2024-11-21,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,10,3
+TKT000850,CUST0143,R003,2024-11-01,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,14,3
+TKT000851,CUST0111,R008,2024-10-06,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,5,1
+TKT000852,CUST0136,R001,2024-12-09,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,3,2
+TKT000853,CUST0254,R012,2024-10-23,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,1,4
+TKT000854,CUST0160,R005,2025-01-19,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,6,2
+TKT000855,CUST0251,R011,2024-11-28,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,10,5
+TKT000856,CUST0064,R001,2024-10-07,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT000857,CUST0259,R010,2024-12-29,Booking Issue,Double-charged for seat selection. Please refund.,negative,Open,,
+TKT000858,CUST0004,R012,2024-12-06,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,8,2
+TKT000859,CUST0160,R011,2025-01-01,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,7,4
+TKT000860,CUST0012,R011,2024-10-04,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT000861,CUST0044,R001,2024-12-21,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,10,5
+TKT000862,CUST0197,R009,2025-01-05,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,11,4
+TKT000863,CUST0213,R009,2025-01-26,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,1,4
+TKT000864,CUST0104,R006,2024-11-27,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,3,5
+TKT000865,CUST0021,R011,2024-10-05,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,4,2
+TKT000866,CUST0015,R009,2025-01-25,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,5,4
+TKT000867,CUST0266,R009,2024-11-13,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,11,5
+TKT000868,CUST0229,R004,2024-12-29,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,10,5
+TKT000869,CUST0236,R009,2024-11-05,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,12,1
+TKT000870,CUST0148,R006,2024-10-05,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,10,2
+TKT000871,CUST0140,R003,2024-11-10,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT000872,CUST0016,R002,2025-01-26,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,3,1
+TKT000873,CUST0205,R003,2025-01-15,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,11,1
+TKT000874,CUST0023,R005,2024-11-05,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000875,CUST0294,R008,2025-01-06,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,3,2
+TKT000876,CUST0292,R011,2025-02-01,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,3,3
+TKT000877,CUST0057,R005,2024-10-12,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,13,5
+TKT000878,CUST0156,R006,2024-11-30,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,9,1
+TKT000879,CUST0150,R005,2024-11-22,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,7,1
+TKT000880,CUST0094,R012,2024-12-16,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,7,3
+TKT000881,CUST0162,R006,2025-01-23,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,7,3
+TKT000882,CUST0246,R006,2024-12-15,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,7,2
+TKT000883,CUST0174,R010,2024-10-23,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000884,CUST0265,R009,2024-12-16,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,7,1
+TKT000885,CUST0081,R005,2024-11-14,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,6,4
+TKT000886,CUST0028,R008,2024-12-06,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,9,4
+TKT000887,CUST0106,R005,2024-11-18,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Open,,
+TKT000888,CUST0052,R004,2024-10-10,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,8,3
+TKT000889,CUST0286,R006,2024-11-10,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,6,4
+TKT000890,CUST0100,R005,2024-10-26,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,14,3
+TKT000891,CUST0053,R004,2025-01-31,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,3,2
+TKT000892,CUST0177,R006,2024-12-08,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,14,4
+TKT000893,CUST0154,R010,2024-11-04,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,1,5
+TKT000894,CUST0031,R004,2024-12-08,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,1,1
+TKT000895,CUST0249,R009,2024-12-21,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,4,1
+TKT000896,CUST0280,R012,2024-10-31,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,10,5
+TKT000897,CUST0271,R009,2024-12-19,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,14,5
+TKT000898,CUST0276,R010,2024-10-23,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,2,2
+TKT000899,CUST0236,R005,2024-11-11,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,1,4
+TKT000900,CUST0277,R004,2024-11-11,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,1,4
+TKT000901,CUST0294,R007,2024-12-29,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Open,,
+TKT000902,CUST0173,R006,2024-10-21,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,7,1
+TKT000903,CUST0141,R003,2024-12-26,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,14,1
+TKT000904,CUST0087,R009,2024-12-19,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,3,5
+TKT000905,CUST0032,R004,2024-10-28,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,3,2
+TKT000906,CUST0291,R002,2024-11-09,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,8,5
+TKT000907,CUST0039,R005,2024-10-12,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,7,5
+TKT000908,CUST0155,R009,2025-01-08,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,14,5
+TKT000909,CUST0156,R005,2025-01-15,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,2,5
+TKT000910,CUST0141,R005,2024-10-25,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,7,1
+TKT000911,CUST0043,R009,2025-01-03,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,5,2
+TKT000912,CUST0291,R005,2024-10-30,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Open,,
+TKT000913,CUST0264,R004,2025-01-19,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,11,1
+TKT000914,CUST0277,R005,2024-12-02,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,3,2
+TKT000915,CUST0026,R010,2024-11-26,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,10,4
+TKT000916,CUST0268,R011,2024-11-01,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,2,4
+TKT000917,CUST0021,R007,2025-01-25,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Open,,
+TKT000918,CUST0049,R008,2024-11-13,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,14,5
+TKT000919,CUST0077,R007,2025-01-15,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,8,5
+TKT000920,CUST0063,R005,2024-11-26,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,6,2
+TKT000921,CUST0027,R006,2024-12-12,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,1,4
+TKT000922,CUST0248,R009,2024-12-17,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000923,CUST0022,R006,2024-11-20,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,10,4
+TKT000924,CUST0202,R003,2024-11-06,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,8,2
+TKT000925,CUST0228,R006,2024-11-24,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Open,,
+TKT000926,CUST0058,R006,2025-01-31,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,11,5
+TKT000927,CUST0104,R001,2024-10-23,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,11,1
+TKT000928,CUST0241,R006,2024-12-26,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,1,4
+TKT000929,CUST0066,R005,2025-01-23,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Open,,
+TKT000930,CUST0248,R006,2024-12-18,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,7,5
+TKT000931,CUST0137,R007,2024-12-27,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,7,3
+TKT000932,CUST0030,R007,2025-01-03,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,7,4
+TKT000933,CUST0175,R005,2025-01-12,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,4,2
+TKT000934,CUST0219,R005,2024-11-29,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT000935,CUST0129,R002,2024-10-16,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,6,1
+TKT000936,CUST0233,R008,2024-11-18,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Open,,
+TKT000937,CUST0019,R006,2024-11-08,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,5,3
+TKT000938,CUST0108,R001,2024-10-17,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,5,1
+TKT000939,CUST0042,R005,2025-01-08,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000940,CUST0100,R004,2024-10-29,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,8,1
+TKT000941,CUST0007,R005,2025-01-07,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Open,,
+TKT000942,CUST0105,R010,2025-01-23,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,4,3
+TKT000943,CUST0042,R009,2024-12-08,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,7,4
+TKT000944,CUST0279,R006,2025-01-16,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,12,4
+TKT000945,CUST0109,R012,2024-10-31,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Resolved,10,4
+TKT000946,CUST0222,R004,2025-01-23,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT000947,CUST0254,R006,2024-12-19,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,11,2
+TKT000948,CUST0263,R008,2024-12-14,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,4,1
+TKT000949,CUST0183,R002,2025-01-29,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,5,2
+TKT000950,CUST0251,R004,2024-10-12,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,11,3
+TKT000951,CUST0147,R006,2024-12-02,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,5,3
+TKT000952,CUST0071,R009,2024-10-26,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,6,5
+TKT000953,CUST0130,R004,2024-11-07,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,10,1
+TKT000954,CUST0236,R005,2024-10-24,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,2,5
+TKT000955,CUST0066,R008,2024-12-25,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,5,1
+TKT000956,CUST0099,R004,2024-11-22,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,1,5
+TKT000957,CUST0155,R004,2024-10-07,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,3,5
+TKT000958,CUST0093,R009,2024-11-09,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,4,1
+TKT000959,CUST0290,R009,2025-01-31,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,10,5
+TKT000960,CUST0263,R005,2025-01-26,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT000961,CUST0288,R005,2024-11-26,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,2,1
+TKT000962,CUST0263,R003,2024-11-08,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000963,CUST0004,R012,2024-10-21,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,4,3
+TKT000964,CUST0290,R007,2025-01-04,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,7,5
+TKT000965,CUST0287,R004,2024-10-16,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,8,5
+TKT000966,CUST0217,R001,2025-01-16,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,5,3
+TKT000967,CUST0232,R001,2024-10-12,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,14,4
+TKT000968,CUST0121,R011,2025-01-23,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,14,1
+TKT000969,CUST0099,R002,2024-11-21,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000970,CUST0024,R006,2025-01-26,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,6,5
+TKT000971,CUST0065,R009,2024-11-21,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,5,1
+TKT000972,CUST0009,R004,2024-11-14,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000973,CUST0159,R003,2025-01-05,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,4,3
+TKT000974,CUST0173,R011,2024-12-04,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000975,CUST0023,R006,2024-11-11,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,4,2
+TKT000976,CUST0088,R001,2025-01-05,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,2,4
+TKT000977,CUST0107,R004,2024-10-15,Booking Issue,Double-charged for seat selection. Please refund.,negative,Open,,
+TKT000978,CUST0300,R006,2024-10-12,Customer Service,No response to my email sent 2 weeks ago.,negative,Open,,
+TKT000979,CUST0081,R008,2024-11-09,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT000980,CUST0201,R006,2024-10-28,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT000981,CUST0191,R006,2024-10-16,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,9,4
+TKT000982,CUST0013,R012,2024-11-14,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000983,CUST0184,R001,2024-11-25,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT000984,CUST0253,R002,2024-12-13,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,1,5
+TKT000985,CUST0196,R005,2025-01-19,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT000986,CUST0124,R007,2025-01-22,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,10,2
+TKT000987,CUST0251,R004,2025-02-01,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,12,1
+TKT000988,CUST0220,R005,2024-10-27,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,7,3
+TKT000989,CUST0069,R012,2024-12-29,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,14,2
+TKT000990,CUST0237,R003,2025-01-12,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT000991,CUST0007,R005,2024-11-05,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,10,5
+TKT000992,CUST0034,R003,2024-11-27,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,4,5
+TKT000993,CUST0169,R003,2024-10-08,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Open,,
+TKT000994,CUST0227,R005,2024-10-27,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,1,4
+TKT000995,CUST0138,R003,2025-01-20,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT000996,CUST0067,R009,2024-11-01,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,4,2
+TKT000997,CUST0060,R007,2024-10-18,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,3,2
+TKT000998,CUST0278,R009,2024-12-29,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,3,2
+TKT000999,CUST0188,R004,2024-12-21,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,13,1
+TKT001000,CUST0233,R003,2024-10-28,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,12,1
+TKT001001,CUST0188,R009,2024-11-28,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,11,4
+TKT001002,CUST0176,R007,2024-12-27,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,11,2
+TKT001003,CUST0109,R007,2025-01-18,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,6,4
+TKT001004,CUST0275,R012,2024-11-07,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,7,2
+TKT001005,CUST0198,R005,2024-10-11,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,7,4
+TKT001006,CUST0246,R004,2024-11-01,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT001007,CUST0150,R010,2025-01-24,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,5,4
+TKT001008,CUST0225,R005,2024-10-30,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,12,4
+TKT001009,CUST0048,R002,2025-01-07,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT001010,CUST0283,R004,2024-12-06,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,3,1
+TKT001011,CUST0144,R005,2025-01-22,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,7,2
+TKT001012,CUST0108,R009,2024-11-07,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT001013,CUST0016,R008,2025-01-07,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,11,5
+TKT001014,CUST0094,R001,2024-11-10,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,10,5
+TKT001015,CUST0143,R007,2024-11-26,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Open,,
+TKT001016,CUST0263,R008,2025-01-26,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,11,2
+TKT001017,CUST0112,R008,2024-12-06,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,8,2
+TKT001018,CUST0085,R005,2025-02-01,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT001019,CUST0210,R006,2025-01-27,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,9,2
+TKT001020,CUST0117,R005,2024-10-20,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,5,4
+TKT001021,CUST0098,R009,2024-11-23,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Open,,
+TKT001022,CUST0297,R007,2024-11-22,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,5,4
+TKT001023,CUST0181,R004,2024-12-01,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Open,,
+TKT001024,CUST0267,R001,2024-12-07,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,2,1
+TKT001025,CUST0272,R003,2024-12-15,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,10,4
+TKT001026,CUST0296,R005,2024-11-01,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT001027,CUST0230,R004,2024-10-17,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT001028,CUST0214,R009,2025-01-11,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,10,5
+TKT001029,CUST0300,R004,2024-11-01,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT001030,CUST0204,R012,2025-01-18,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,13,2
+TKT001031,CUST0065,R012,2024-11-09,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT001032,CUST0204,R006,2025-01-05,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Open,,
+TKT001033,CUST0039,R010,2024-10-13,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,9,1
+TKT001034,CUST0223,R002,2025-01-10,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT001035,CUST0039,R010,2024-10-23,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,14,4
+TKT001036,CUST0034,R010,2025-01-07,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,10,2
+TKT001037,CUST0040,R004,2024-11-06,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,12,3
+TKT001038,CUST0115,R004,2024-10-30,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,2,4
+TKT001039,CUST0168,R001,2024-12-05,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,10,1
+TKT001040,CUST0259,R004,2024-11-14,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,2,1
+TKT001041,CUST0058,R009,2024-12-17,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,14,1
+TKT001042,CUST0266,R012,2024-10-24,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,9,5
+TKT001043,CUST0153,R009,2024-10-20,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,8,3
+TKT001044,CUST0007,R005,2025-01-10,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,4,4
+TKT001045,CUST0081,R010,2025-01-22,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,10,1
+TKT001046,CUST0078,R004,2025-01-29,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,5,4
+TKT001047,CUST0251,R002,2024-11-04,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,2,3
+TKT001048,CUST0014,R004,2024-10-14,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,4,3
+TKT001049,CUST0069,R001,2024-11-22,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT001050,CUST0104,R006,2024-11-14,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Open,,
+TKT001051,CUST0261,R009,2024-12-24,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,8,4
+TKT001052,CUST0161,R006,2024-12-09,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,6,4
+TKT001053,CUST0213,R005,2024-10-11,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001054,CUST0282,R002,2024-11-28,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,negative,Resolved,11,2
+TKT001055,CUST0132,R005,2025-01-21,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,8,4
+TKT001056,CUST0162,R003,2024-11-24,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,5,4
+TKT001057,CUST0264,R010,2024-10-14,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,11,3
+TKT001058,CUST0087,R002,2024-12-08,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,7,2
+TKT001059,CUST0127,R004,2025-01-11,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,1,4
+TKT001060,CUST0011,R005,2024-12-05,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Open,,
+TKT001061,CUST0166,R003,2024-12-07,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,2,3
+TKT001062,CUST0155,R010,2024-10-22,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,3,2
+TKT001063,CUST0259,R006,2024-12-03,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,3,5
+TKT001064,CUST0188,R004,2024-10-08,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Open,,
+TKT001065,CUST0247,R001,2024-12-20,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,4,3
+TKT001066,CUST0178,R011,2024-11-17,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,14,3
+TKT001067,CUST0185,R004,2024-10-25,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,9,1
+TKT001068,CUST0171,R009,2024-12-05,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,1,5
+TKT001069,CUST0115,R009,2025-01-30,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,14,1
+TKT001070,CUST0018,R001,2025-01-28,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,6,2
+TKT001071,CUST0284,R004,2025-01-09,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,11,3
+TKT001072,CUST0155,R004,2025-01-05,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,3,5
+TKT001073,CUST0279,R001,2024-10-06,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,13,3
+TKT001074,CUST0147,R006,2024-12-29,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,8,2
+TKT001075,CUST0029,R002,2024-11-05,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,4,5
+TKT001076,CUST0293,R006,2024-11-14,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,8,3
+TKT001077,CUST0266,R006,2024-12-12,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,3,5
+TKT001078,CUST0233,R011,2024-12-15,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,12,3
+TKT001079,CUST0170,R005,2024-11-27,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Open,,
+TKT001080,CUST0066,R001,2024-12-01,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT001081,CUST0116,R005,2024-10-14,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,3,4
+TKT001082,CUST0248,R005,2024-10-12,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,9,2
+TKT001083,CUST0130,R005,2024-10-28,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,7,5
+TKT001084,CUST0091,R007,2024-11-07,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,13,4
+TKT001085,CUST0036,R010,2024-12-11,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,3,2
+TKT001086,CUST0160,R009,2024-11-11,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,13,3
+TKT001087,CUST0068,R001,2025-01-04,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,4,4
+TKT001088,CUST0139,R006,2024-12-01,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,10,1
+TKT001089,CUST0288,R005,2024-10-05,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Open,,
+TKT001090,CUST0019,R005,2024-11-01,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,10,3
+TKT001091,CUST0071,R008,2025-01-20,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT001092,CUST0044,R007,2024-11-22,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Open,,
+TKT001093,CUST0029,R001,2024-11-23,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Open,,
+TKT001094,CUST0168,R005,2024-12-19,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT001095,CUST0225,R002,2024-12-12,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,3,1
+TKT001096,CUST0164,R005,2024-11-21,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,8,1
+TKT001097,CUST0053,R005,2024-10-31,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,
+TKT001098,CUST0087,R006,2025-01-11,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,6,1
+TKT001099,CUST0281,R004,2024-10-17,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,11,2
+TKT001100,CUST0130,R004,2024-10-14,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,1,1
+TKT001101,CUST0185,R008,2024-11-28,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001102,CUST0063,R003,2025-01-01,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,9,3
+TKT001103,CUST0200,R012,2024-12-17,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,13,2
+TKT001104,CUST0171,R004,2025-01-05,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,4,2
+TKT001105,CUST0215,R009,2024-12-02,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,9,1
+TKT001106,CUST0155,R004,2025-01-19,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT001107,CUST0293,R001,2025-02-01,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,4,5
+TKT001108,CUST0005,R008,2024-12-06,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,7,4
+TKT001109,CUST0275,R005,2024-12-25,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,7,1
+TKT001110,CUST0139,R002,2025-01-17,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,6,5
+TKT001111,CUST0173,R001,2024-10-23,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT001112,CUST0156,R001,2024-10-07,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,14,4
+TKT001113,CUST0141,R007,2024-10-23,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT001114,CUST0031,R006,2024-10-13,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,7,5
+TKT001115,CUST0105,R009,2024-11-01,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,2,1
+TKT001116,CUST0042,R004,2024-10-06,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT001117,CUST0244,R011,2025-01-10,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,10,5
+TKT001118,CUST0165,R006,2024-10-30,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT001119,CUST0259,R005,2024-11-21,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,3,4
+TKT001120,CUST0092,R009,2024-12-05,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,4,4
+TKT001121,CUST0205,R005,2025-01-29,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,1,1
+TKT001122,CUST0017,R002,2025-01-16,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,6,2
+TKT001123,CUST0126,R008,2024-11-29,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,4,3
+TKT001124,CUST0120,R001,2024-11-13,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,4,2
+TKT001125,CUST0148,R006,2025-01-31,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,10,4
+TKT001126,CUST0133,R004,2024-10-24,Customer Service,No response to my email sent 2 weeks ago.,negative,Open,,
+TKT001127,CUST0217,R009,2025-01-18,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT001128,CUST0085,R005,2024-11-25,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,10,4
+TKT001129,CUST0028,R005,2024-10-22,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,1,4
+TKT001130,CUST0096,R009,2024-10-26,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,4,1
+TKT001131,CUST0125,R007,2024-12-30,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,14,2
+TKT001132,CUST0146,R001,2025-01-23,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,6,1
+TKT001133,CUST0182,R004,2024-12-02,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,14,3
+TKT001134,CUST0127,R011,2025-01-21,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,6,5
+TKT001135,CUST0152,R004,2024-10-30,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT001136,CUST0093,R007,2024-12-14,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,3,2
+TKT001137,CUST0138,R004,2025-01-30,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,12,3
+TKT001138,CUST0219,R005,2024-11-24,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,8,1
+TKT001139,CUST0215,R005,2025-01-20,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,13,5
+TKT001140,CUST0154,R005,2025-01-25,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,3,1
+TKT001141,CUST0210,R010,2024-12-07,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,3,3
+TKT001142,CUST0102,R009,2025-01-08,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Open,,
+TKT001143,CUST0086,R008,2025-02-01,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,9,5
+TKT001144,CUST0018,R005,2024-11-21,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT001145,CUST0049,R005,2025-01-26,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,10,2
+TKT001146,CUST0120,R001,2024-12-15,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,1,2
+TKT001147,CUST0026,R003,2024-11-20,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT001148,CUST0095,R008,2024-10-17,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,5,1
+TKT001149,CUST0191,R006,2024-12-12,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,4,3
+TKT001150,CUST0007,R004,2024-11-07,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT001151,CUST0182,R005,2024-10-13,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,14,3
+TKT001152,CUST0223,R004,2024-12-08,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,8,3
+TKT001153,CUST0249,R005,2024-10-09,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,1,1
+TKT001154,CUST0252,R011,2024-11-09,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,8,4
+TKT001155,CUST0142,R006,2024-10-23,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,13,1
+TKT001156,CUST0186,R005,2024-12-04,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,7,1
+TKT001157,CUST0018,R002,2025-01-14,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,7,1
+TKT001158,CUST0130,R001,2024-11-18,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,12,5
+TKT001159,CUST0110,R004,2024-12-03,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,12,3
+TKT001160,CUST0223,R010,2024-11-20,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001161,CUST0079,R005,2024-11-27,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,12,2
+TKT001162,CUST0227,R006,2024-12-17,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,13,5
+TKT001163,CUST0086,R003,2024-10-16,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,13,4
+TKT001164,CUST0287,R005,2024-12-12,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,7,4
+TKT001165,CUST0015,R006,2025-01-16,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,4,1
+TKT001166,CUST0152,R003,2025-01-27,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,3,4
+TKT001167,CUST0274,R009,2024-11-05,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,11,3
+TKT001168,CUST0230,R009,2024-10-20,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,6,3
+TKT001169,CUST0170,R005,2024-12-02,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,1,2
+TKT001170,CUST0083,R010,2024-12-14,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,14,4
+TKT001171,CUST0175,R009,2024-10-19,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,9,3
+TKT001172,CUST0025,R003,2024-12-26,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,7,2
+TKT001173,CUST0156,R001,2025-01-28,Customer Service,Agent au sol très impoli et peu serviable.,negative,Open,,
+TKT001174,CUST0215,R001,2024-10-28,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,5,2
+TKT001175,CUST0115,R011,2025-01-20,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,11,4
+TKT001176,CUST0118,R002,2024-12-29,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,11,4
+TKT001177,CUST0239,R002,2024-11-17,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,7,4
+TKT001178,CUST0288,R005,2024-12-10,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,4,3
+TKT001179,CUST0070,R009,2024-10-23,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Open,,
+TKT001180,CUST0053,R010,2024-12-30,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,4,4
+TKT001181,CUST0162,R007,2025-01-19,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Open,,
+TKT001182,CUST0121,R009,2024-12-01,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001183,CUST0115,R008,2024-10-10,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,6,4
+TKT001184,CUST0204,R009,2024-10-08,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,2,1
+TKT001185,CUST0216,R001,2024-10-05,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT001186,CUST0157,R001,2024-12-28,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,8,3
+TKT001187,CUST0004,R006,2024-11-13,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,9,3
+TKT001188,CUST0265,R006,2024-11-09,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,8,5
+TKT001189,CUST0233,R002,2025-01-30,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,11,4
+TKT001190,CUST0138,R010,2024-10-06,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,2,4
+TKT001191,CUST0051,R008,2024-11-19,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Open,,
+TKT001192,CUST0060,R005,2025-01-04,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,3,3
+TKT001193,CUST0289,R001,2024-12-12,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,1,3
+TKT001194,CUST0217,R008,2024-10-15,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,9,3
+TKT001195,CUST0297,R004,2024-11-24,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,4,2
+TKT001196,CUST0158,R012,2024-11-21,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,13,2
+TKT001197,CUST0135,R009,2025-01-04,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT001198,CUST0121,R001,2024-10-12,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,9,1
+TKT001199,CUST0095,R009,2024-10-09,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT001200,CUST0085,R007,2024-10-12,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,10,5
+TKT001201,CUST0283,R008,2025-01-30,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,4,4
+TKT001202,CUST0104,R005,2024-11-23,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Open,,
+TKT001203,CUST0199,R011,2024-10-21,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,11,4
+TKT001204,CUST0056,R006,2024-11-11,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,12,3
+TKT001205,CUST0263,R009,2024-10-13,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,14,1
+TKT001206,CUST0148,R012,2024-10-05,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,7,4
+TKT001207,CUST0022,R011,2024-11-10,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,2,5
+TKT001208,CUST0284,R006,2024-12-28,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,4,4
+TKT001209,CUST0156,R012,2025-01-08,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,7,4
+TKT001210,CUST0009,R006,2024-12-04,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,3,4
+TKT001211,CUST0237,R011,2024-10-07,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Open,,
+TKT001212,CUST0107,R008,2024-12-01,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,3,2
+TKT001213,CUST0156,R005,2024-10-05,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,12,2
+TKT001214,CUST0027,R005,2024-10-25,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Open,,
+TKT001215,CUST0110,R011,2024-12-02,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,10,2
+TKT001216,CUST0001,R009,2024-11-14,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,8,4
+TKT001217,CUST0009,R006,2024-11-21,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,9,2
+TKT001218,CUST0046,R011,2024-11-13,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Open,,
+TKT001219,CUST0064,R001,2025-01-10,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,13,4
+TKT001220,CUST0025,R005,2024-10-12,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,3,5
+TKT001221,CUST0211,R012,2025-01-14,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT001222,CUST0142,R001,2024-11-27,Baggage,My suitcase arrived open and items were missing.,negative,Open,,
+TKT001223,CUST0008,R010,2025-01-03,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,5,3
+TKT001224,CUST0167,R006,2024-12-14,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,8,3
+TKT001225,CUST0243,R007,2024-12-25,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Open,,
+TKT001226,CUST0088,R006,2024-11-16,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,2,5
+TKT001227,CUST0191,R005,2024-10-25,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,1,4
+TKT001228,CUST0113,R008,2024-10-24,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT001229,CUST0095,R004,2024-10-06,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,1,1
+TKT001230,CUST0245,R009,2025-02-01,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT001231,CUST0116,R004,2024-10-21,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,13,5
+TKT001232,CUST0252,R005,2024-10-07,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,6,4
+TKT001233,CUST0140,R010,2024-11-23,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,10,3
+TKT001234,CUST0223,R011,2024-10-10,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,9,4
+TKT001235,CUST0234,R009,2025-02-01,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,5,3
+TKT001236,CUST0237,R009,2025-01-26,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,9,4
+TKT001237,CUST0273,R005,2024-12-07,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Open,,
+TKT001238,CUST0030,R006,2025-02-01,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,3,4
+TKT001239,CUST0061,R004,2024-11-13,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,
+TKT001240,CUST0094,R010,2024-12-10,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,9,2
+TKT001241,CUST0144,R003,2024-12-27,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,5,2
+TKT001242,CUST0276,R010,2025-01-22,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,6,1
+TKT001243,CUST0265,R009,2024-11-19,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,1,5
+TKT001244,CUST0135,R004,2024-10-10,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,5,2
+TKT001245,CUST0058,R011,2025-01-01,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,4,2
+TKT001246,CUST0134,R010,2024-12-28,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,11,1
+TKT001247,CUST0035,R004,2024-10-21,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,6,3
+TKT001248,CUST0014,R001,2024-11-11,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,1,2
+TKT001249,CUST0198,R012,2024-11-02,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,3,4
+TKT001250,CUST0063,R006,2025-01-08,Booking Issue,Double-charged for seat selection. Please refund.,negative,Resolved,14,2
+TKT001251,CUST0151,R001,2024-10-22,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT001252,CUST0060,R005,2024-11-24,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,8,3
+TKT001253,CUST0028,R003,2025-01-27,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT001254,CUST0174,R008,2024-11-19,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,9,2
+TKT001255,CUST0083,R006,2024-11-16,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,5,4
+TKT001256,CUST0123,R012,2024-11-14,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT001257,CUST0059,R008,2024-11-13,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,4,1
+TKT001258,CUST0057,R011,2024-12-12,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,7,4
+TKT001259,CUST0183,R004,2025-01-19,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT001260,CUST0091,R001,2024-11-27,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,13,2
+TKT001261,CUST0016,R009,2025-01-08,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,9,3
+TKT001262,CUST0092,R006,2024-11-23,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT001263,CUST0056,R006,2024-11-02,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT001264,CUST0158,R004,2024-10-13,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,8,3
+TKT001265,CUST0204,R005,2024-10-22,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,3,4
+TKT001266,CUST0300,R005,2025-01-09,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT001267,CUST0292,R009,2024-12-10,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,5,1
+TKT001268,CUST0176,R008,2024-11-20,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,4,4
+TKT001269,CUST0185,R004,2024-12-13,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Open,,
+TKT001270,CUST0213,R009,2024-12-03,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,6,4
+TKT001271,CUST0006,R005,2024-10-18,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,5,5
+TKT001272,CUST0158,R001,2025-01-26,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT001273,CUST0119,R010,2024-11-28,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,6,2
+TKT001274,CUST0286,R011,2024-12-28,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,8,4
+TKT001275,CUST0080,R002,2024-11-25,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Open,,
+TKT001276,CUST0082,R006,2024-11-22,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,6,4
+TKT001277,CUST0133,R004,2024-10-22,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,2,1
+TKT001278,CUST0125,R009,2024-10-24,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Open,,
+TKT001279,CUST0238,R006,2024-11-29,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT001280,CUST0241,R006,2024-11-18,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT001281,CUST0119,R006,2025-01-20,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,10,1
+TKT001282,CUST0191,R005,2024-11-13,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT001283,CUST0030,R009,2025-01-07,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,4,5
+TKT001284,CUST0020,R006,2024-12-24,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,1,2
+TKT001285,CUST0075,R006,2024-10-10,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT001286,CUST0019,R009,2024-11-07,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,12,4
+TKT001287,CUST0040,R008,2025-01-03,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,4,4
+TKT001288,CUST0268,R006,2025-01-18,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,3,4
+TKT001289,CUST0299,R003,2024-10-16,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Open,,
+TKT001290,CUST0111,R004,2024-10-24,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Open,,
+TKT001291,CUST0251,R002,2024-11-19,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,3,1
+TKT001292,CUST0147,R009,2024-12-09,Booking Issue,Impossible de modifier ma réservation en ligne.,negative,Open,,
+TKT001293,CUST0048,R004,2024-12-15,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,11,4
+TKT001294,CUST0040,R012,2024-12-02,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,10,4
+TKT001295,CUST0048,R005,2024-11-18,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT001296,CUST0243,R004,2025-01-28,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT001297,CUST0264,R002,2025-01-23,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,13,5
+TKT001298,CUST0203,R010,2024-12-01,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Open,,
+TKT001299,CUST0135,R005,2024-12-22,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,11,3
+TKT001300,CUST0053,R004,2024-10-22,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,6,3
+TKT001301,CUST0196,R005,2024-11-27,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,4,4
+TKT001302,CUST0142,R005,2024-12-07,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,3,4
+TKT001303,CUST0146,R004,2025-01-06,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,14,4
+TKT001304,CUST0046,R011,2024-11-20,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,4,4
+TKT001305,CUST0217,R002,2025-01-07,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,1,2
+TKT001306,CUST0264,R009,2024-12-28,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,2,3
+TKT001307,CUST0207,R004,2024-12-06,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,12,2
+TKT001308,CUST0255,R001,2025-01-15,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,13,3
+TKT001309,CUST0241,R003,2024-11-10,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,2,5
+TKT001310,CUST0003,R005,2025-01-25,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,5,4
+TKT001311,CUST0088,R001,2024-12-11,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,7,5
+TKT001312,CUST0280,R006,2024-11-21,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,13,2
+TKT001313,CUST0186,R001,2024-12-30,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,11,2
+TKT001314,CUST0093,R005,2025-01-09,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,3,2
+TKT001315,CUST0110,R009,2024-12-27,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,8,1
+TKT001316,CUST0006,R005,2024-10-09,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,1,4
+TKT001317,CUST0187,R009,2024-10-14,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,3,2
+TKT001318,CUST0091,R006,2024-10-28,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT001319,CUST0138,R006,2024-12-26,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Open,,
+TKT001320,CUST0013,R010,2024-12-21,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,14,5
+TKT001321,CUST0202,R008,2024-12-17,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,10,3
+TKT001322,CUST0066,R003,2024-10-19,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Open,,
+TKT001323,CUST0268,R009,2025-01-06,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,
+TKT001324,CUST0109,R012,2024-10-13,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,11,4
+TKT001325,CUST0173,R010,2025-01-18,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Open,,
+TKT001326,CUST0208,R006,2024-11-30,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,12,1
+TKT001327,CUST0137,R005,2024-12-05,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,9,1
+TKT001328,CUST0260,R002,2025-01-21,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Resolved,10,4
+TKT001329,CUST0028,R006,2024-10-18,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Resolved,11,4
+TKT001330,CUST0242,R001,2025-01-13,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,3,4
+TKT001331,CUST0035,R004,2025-01-29,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Open,,
+TKT001332,CUST0043,R001,2024-11-07,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,13,1
+TKT001333,CUST0181,R005,2024-12-03,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,10,3
+TKT001334,CUST0164,R009,2024-12-07,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Open,,
+TKT001335,CUST0265,R008,2024-10-23,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,5,5
+TKT001336,CUST0228,R007,2024-10-17,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,5,1
+TKT001337,CUST0056,R010,2024-12-14,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,2,3
+TKT001338,CUST0031,R010,2025-01-16,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Resolved,3,4
+TKT001339,CUST0052,R009,2024-11-02,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,5,3
+TKT001340,CUST0034,R004,2024-11-13,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Open,,
+TKT001341,CUST0181,R005,2024-10-05,Booking Issue,Application mobile bloque à l'étape de paiement.,negative,Resolved,13,5
+TKT001342,CUST0088,R005,2024-12-26,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,12,3
+TKT001343,CUST0254,R005,2024-10-21,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,12,5
+TKT001344,CUST0205,R012,2024-12-01,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,13,2
+TKT001345,CUST0081,R005,2024-11-24,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,2,2
+TKT001346,CUST0078,R012,2024-10-07,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,3,1
+TKT001347,CUST0123,R006,2025-01-02,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,5,2
+TKT001348,CUST0186,R008,2024-12-31,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,13,2
+TKT001349,CUST0277,R009,2024-10-27,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,7,3
+TKT001350,CUST0011,R005,2024-12-26,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,5,3
+TKT001351,CUST0196,R003,2024-10-23,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,11,2
+TKT001352,CUST0272,R008,2024-10-04,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,5,4
+TKT001353,CUST0117,R005,2024-12-28,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Resolved,7,1
+TKT001354,CUST0147,R012,2024-12-21,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,5,1
+TKT001355,CUST0204,R005,2024-12-22,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,4,4
+TKT001356,CUST0254,R001,2024-11-11,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,2,5
+TKT001357,CUST0265,R001,2025-01-22,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Open,,
+TKT001358,CUST0230,R001,2024-12-21,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,12,5
+TKT001359,CUST0163,R006,2024-11-03,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,12,4
+TKT001360,CUST0300,R005,2025-01-11,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT001361,CUST0013,R005,2024-12-15,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,14,1
+TKT001362,CUST0152,R007,2025-01-18,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,4,3
+TKT001363,CUST0186,R002,2024-10-04,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,11,2
+TKT001364,CUST0116,R006,2024-10-29,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,11,5
+TKT001365,CUST0272,R006,2024-10-30,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,2,5
+TKT001366,CUST0131,R005,2024-12-07,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,13,3
+TKT001367,CUST0158,R003,2024-11-22,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,3,5
+TKT001368,CUST0186,R005,2024-11-16,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,1,5
+TKT001369,CUST0049,R010,2025-01-15,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,6,5
+TKT001370,CUST0135,R004,2024-11-04,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,13,3
+TKT001371,CUST0082,R005,2024-11-24,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,5,4
+TKT001372,CUST0137,R002,2024-10-08,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,13,5
+TKT001373,CUST0118,R005,2024-10-31,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,5,5
+TKT001374,CUST0123,R007,2024-11-28,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,9,5
+TKT001375,CUST0016,R006,2024-12-01,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,14,1
+TKT001376,CUST0012,R010,2024-10-14,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,10,1
+TKT001377,CUST0281,R001,2024-11-06,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,12,1
+TKT001378,CUST0081,R005,2024-11-28,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,1,3
+TKT001379,CUST0289,R001,2024-12-30,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT001380,CUST0174,R006,2024-10-30,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Resolved,4,3
+TKT001381,CUST0050,R007,2024-11-14,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT001382,CUST0225,R012,2024-12-25,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,7,5
+TKT001383,CUST0029,R009,2024-10-09,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT001384,CUST0056,R009,2024-11-28,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Open,,
+TKT001385,CUST0197,R011,2024-10-08,Booking Issue,Impossible de modifier ma réservation en ligne.,neutral,Resolved,6,2
+TKT001386,CUST0107,R006,2025-01-07,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Open,,
+TKT001387,CUST0144,R010,2024-12-23,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,13,2
+TKT001388,CUST0169,R006,2025-01-22,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,1,4
+TKT001389,CUST0221,R004,2025-01-04,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Resolved,1,1
+TKT001390,CUST0058,R010,2024-12-19,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,13,5
+TKT001391,CUST0261,R008,2025-01-22,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,14,4
+TKT001392,CUST0028,R006,2025-01-26,Customer Service,Le service clientèle en ligne est inexistant.,negative,Open,,
+TKT001393,CUST0051,R005,2024-10-31,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,11,3
+TKT001394,CUST0273,R004,2025-01-11,Refund,Voucher reçu au lieu du remboursement promis.,negative,Resolved,12,2
+TKT001395,CUST0203,R004,2024-10-29,Customer Service,Twitter team responded but did not resolve the issue.,negative,Open,,
+TKT001396,CUST0229,R005,2024-11-30,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,14,1
+TKT001397,CUST0022,R010,2024-12-02,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,7,2
+TKT001398,CUST0118,R008,2025-02-01,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,9,1
+TKT001399,CUST0005,R006,2025-01-16,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,13,3
+TKT001400,CUST0103,R007,2025-01-19,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,6,2
+TKT001401,CUST0186,R006,2025-01-12,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,14,2
+TKT001402,CUST0038,R006,2024-11-09,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Open,,
+TKT001403,CUST0207,R010,2024-11-26,Baggage,Frais d'excédent bagage facturés deux fois sur ma carte.,negative,Resolved,2,3
+TKT001404,CUST0204,R006,2024-10-13,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,8,2
+TKT001405,CUST0170,R008,2025-01-12,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001406,CUST0083,R009,2025-01-13,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,7,3
+TKT001407,CUST0023,R009,2025-01-04,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,4,5
+TKT001408,CUST0196,R012,2024-11-04,Booking Issue,"Erreur lors du paiement, deux billets émis.",neutral,Resolved,3,2
+TKT001409,CUST0260,R011,2025-01-22,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,5,4
+TKT001410,CUST0060,R001,2024-10-12,Onboard Experience,Choice of vegetarian meals very limited compared to competitors.,neutral,Open,,
+TKT001411,CUST0149,R009,2025-01-17,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,2,5
+TKT001412,CUST0154,R008,2025-01-18,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,2,1
+TKT001413,CUST0047,R006,2024-10-31,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,8,3
+TKT001414,CUST0058,R005,2024-12-03,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,2,5
+TKT001415,CUST0039,R007,2024-12-28,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Open,,
+TKT001416,CUST0225,R009,2024-12-28,Booking Issue,"Erreur lors du paiement, deux billets émis.",negative,Resolved,13,5
+TKT001417,CUST0090,R010,2025-01-03,Refund,Remboursement non reçu après annulation il y a 6 semaines.,negative,Open,,
+TKT001418,CUST0024,R005,2024-10-06,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,10,3
+TKT001419,CUST0212,R009,2025-01-05,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT001420,CUST0250,R009,2024-11-13,Customer Service,No response to my email sent 2 weeks ago.,negative,Resolved,8,2
+TKT001421,CUST0150,R007,2024-11-05,Customer Service,Phone support kept me on hold for 45 minutes.,negative,Open,,
+TKT001422,CUST0144,R001,2024-11-21,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Open,,
+TKT001423,CUST0068,R005,2024-12-18,Onboard Experience,Seat recline broken. Crew ignored my request.,negative,Resolved,5,5
+TKT001424,CUST0218,R005,2025-01-17,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Open,,
+TKT001425,CUST0055,R004,2024-10-06,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Resolved,12,2
+TKT001426,CUST0177,R011,2024-12-25,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001427,CUST0200,R005,2024-11-25,Baggage,Lost my hand luggage during boarding. Customer service unhelpful.,negative,Resolved,14,4
+TKT001428,CUST0156,R006,2025-01-29,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,9,2
+TKT001429,CUST0257,R001,2024-11-07,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,7,3
+TKT001430,CUST0160,R006,2025-01-11,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,11,2
+TKT001431,CUST0191,R008,2024-11-16,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,13,5
+TKT001432,CUST0131,R001,2025-01-29,Customer Service,No response to my email sent 2 weeks ago.,negative,Open,,
+TKT001433,CUST0240,R012,2025-01-15,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Resolved,14,4
+TKT001434,CUST0280,R006,2024-12-11,Booking Issue,Double-charged for seat selection. Please refund.,neutral,Open,,
+TKT001435,CUST0056,R006,2024-10-15,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,12,1
+TKT001436,CUST0257,R009,2025-01-16,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,7,3
+TKT001437,CUST0107,R002,2025-01-29,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT001438,CUST0195,R008,2025-01-07,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",neutral,Resolved,13,5
+TKT001439,CUST0047,R009,2024-11-13,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Open,,
+TKT001440,CUST0291,R011,2025-01-04,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,4,2
+TKT001441,CUST0093,R001,2024-10-29,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,2,2
+TKT001442,CUST0293,R001,2024-10-05,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,9,1
+TKT001443,CUST0228,R008,2024-11-19,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,5,3
+TKT001444,CUST0055,R005,2024-11-03,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,5,3
+TKT001445,CUST0287,R012,2024-12-19,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,3,4
+TKT001446,CUST0214,R011,2024-11-16,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Open,,
+TKT001447,CUST0042,R005,2024-10-06,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,2,4
+TKT001448,CUST0172,R012,2024-10-06,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001449,CUST0213,R009,2024-10-24,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,3,4
+TKT001450,CUST0082,R006,2024-10-23,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,11,4
+TKT001451,CUST0112,R005,2025-01-18,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,13,4
+TKT001452,CUST0110,R012,2024-12-06,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,12,1
+TKT001453,CUST0152,R009,2024-10-21,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,11,3
+TKT001454,CUST0144,R006,2024-10-10,Booking Issue,Application mobile bloque à l'étape de paiement.,neutral,Resolved,3,1
+TKT001455,CUST0107,R001,2024-12-14,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,8,2
+TKT001456,CUST0046,R004,2024-10-22,Flight Delay,Vol retardé plusieurs fois sur ce mois. Inacceptable.,negative,Resolved,2,3
+TKT001457,CUST0287,R005,2024-12-29,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,neutral,Resolved,13,2
+TKT001458,CUST0104,R011,2025-01-15,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,5,2
+TKT001459,CUST0121,R009,2024-11-26,Booking Issue,Upgrade not applied despite payment confirmation.,negative,Resolved,14,4
+TKT001460,CUST0299,R004,2024-10-09,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,negative,Resolved,1,1
+TKT001461,CUST0291,R007,2024-11-15,Onboard Experience,"Écran d'écran cassé, pas de divertissement disponible.",negative,Resolved,12,2
+TKT001462,CUST0235,R001,2024-11-28,Onboard Experience,Air conditioning was too cold. No blankets available.,negative,Resolved,4,5
+TKT001463,CUST0024,R006,2024-11-17,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,10,5
+TKT001464,CUST0012,R010,2024-11-26,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,3,5
+TKT001465,CUST0158,R001,2024-12-14,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,5,4
+TKT001466,CUST0156,R010,2025-01-27,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,13,5
+TKT001467,CUST0290,R007,2024-11-15,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT001468,CUST0108,R009,2025-01-05,Flight Delay,3-hour tarmac delay with no air conditioning.,negative,Open,,
+TKT001469,CUST0007,R003,2024-10-13,Booking Issue,Upgrade not applied despite payment confirmation.,neutral,Resolved,13,3
+TKT001470,CUST0185,R005,2024-11-02,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,3,5
+TKT001471,CUST0290,R004,2024-12-03,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Open,,
+TKT001472,CUST0114,R001,2024-10-20,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,7,4
+TKT001473,CUST0253,R001,2024-11-24,Customer Service,Promise de rappel non tenue après ma plainte initiale.,negative,Resolved,9,4
+TKT001474,CUST0061,R010,2024-12-18,Flight Delay,Vol systématiquement en retard le matin sur cette ligne.,negative,Resolved,6,5
+TKT001475,CUST0082,R008,2025-01-27,Onboard Experience,Seat recline broken. Crew ignored my request.,neutral,Open,,
+TKT001476,CUST0157,R009,2024-11-04,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,1,4
+TKT001477,CUST0105,R011,2024-12-30,Customer Service,Le service clientèle en ligne est inexistant.,negative,Resolved,7,4
+TKT001478,CUST0255,R011,2024-12-21,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,5,3
+TKT001479,CUST0299,R009,2024-12-16,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,10,4
+TKT001480,CUST0047,R005,2024-10-14,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,6,3
+TKT001481,CUST0216,R008,2025-01-30,Refund,"Compensation EU261 demandée pour vol retardé, sans réponse.",negative,Resolved,10,4
+TKT001482,CUST0240,R004,2024-12-30,Refund,Vol annulé par la compagnie mais pas de remboursement proposé.,negative,Open,,
+TKT001483,CUST0270,R007,2024-11-27,Onboard Experience,Wi-Fi à bord facturé mais inopérant pendant tout le vol.,neutral,Resolved,13,1
+TKT001484,CUST0252,R009,2024-11-15,Refund,Voucher reçu au lieu du remboursement promis.,negative,Open,,
+TKT001485,CUST0283,R007,2025-01-10,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,11,4
+TKT001486,CUST0190,R005,2024-12-10,Baggage,Still waiting for delayed baggage from 3 days ago.,negative,Resolved,4,1
+TKT001487,CUST0007,R011,2025-01-06,Baggage,Baggage damaged on arrival. Wheel broken and zipper torn.,negative,Resolved,3,1
+TKT001488,CUST0039,R010,2024-10-14,Flight Delay,Flight delayed with no notification sent to passengers.,negative,Resolved,6,5
+TKT001489,CUST0101,R006,2024-10-22,Refund,Requested refund 30 days ago. No update from the airline.,negative,Open,,
+TKT001490,CUST0298,R004,2024-11-12,Customer Service,Twitter team responded but did not resolve the issue.,negative,Resolved,10,2
+TKT001491,CUST0061,R006,2024-12-23,Customer Service,Agent au sol très impoli et peu serviable.,negative,Resolved,5,4
+TKT001492,CUST0092,R008,2024-10-08,Baggage,Mes bagages n'ont pas été livrés à l'arrivée.,negative,Resolved,13,2
+TKT001493,CUST0134,R004,2025-01-19,Flight Delay,Mon vol a été retardé de 4 heures. Aucun repas fourni.,negative,Resolved,14,2
+TKT001494,CUST0244,R005,2024-11-24,Flight Delay,Aucune information donnée pendant l'attente prolongée en salle d'embarquement.,negative,Resolved,12,4
+TKT001495,CUST0158,R002,2024-11-26,Flight Delay,Missed connecting flight due to Air CI delay. Need compensation.,negative,Resolved,6,2
+TKT001496,CUST0035,R006,2024-12-05,Onboard Experience,Repas de très mauvaise qualité sur le vol ABJ-CDG.,negative,Resolved,12,2
+TKT001497,CUST0052,R006,2024-11-23,Baggage,My suitcase arrived open and items were missing.,negative,Resolved,14,3
+TKT001498,CUST0192,R007,2025-01-02,Baggage,Bagage cabine refusé à l'embarquement sans justification.,negative,Resolved,6,4
+TKT001499,CUST0142,R005,2024-11-19,Refund,Requested refund 30 days ago. No update from the airline.,negative,Resolved,3,1
+TKT001500,CUST0044,R010,2024-12-14,Onboard Experience,Air conditioning was too cold. No blankets available.,neutral,Open,,

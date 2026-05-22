@@ -1,0 +1,7 @@
+aci_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/aci.duckdb"
+      threads: 4

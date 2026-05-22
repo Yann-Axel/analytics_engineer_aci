@@ -1,0 +1,13 @@
+tail_number,aircraft_type,manufacturer,seats,fuel_burn_kg_per_h,max_range_km,age_years,ownership,avg_utilization_h_per_day
+TU-001,A319,Airbus,122,2400,6850,8,Owned,11.8
+TU-002,A319,Airbus,122,2400,6850,8,Owned,8.2
+TU-003,A319,Airbus,122,2400,6850,8,Owned,9.7
+TU-004,A320,Airbus,150,2600,6100,5,Leased,9.3
+TU-005,A320,Airbus,150,2600,6100,5,Leased,12.4
+TU-006,A320neo,Airbus,165,2100,6300,2,Leased,12.1
+TU-007,A320neo,Airbus,165,2100,6300,2,Leased,13.4
+TU-008,A330-900neo,Airbus,290,5800,13334,1,Leased,8.5
+TU-009,A330-900neo,Airbus,290,5800,13334,1,Leased,10.5
+TU-010,ATR72,ATR,68,1100,1528,6,Owned,8.2
+TU-011,ATR72,ATR,68,1100,1528,6,Owned,9.3
+TU-012,ATR72,ATR,68,1100,1528,6,Owned,11.0

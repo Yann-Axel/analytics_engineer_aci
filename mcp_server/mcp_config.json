@@ -1,0 +1,24 @@
+{
+  "_comment_local": "Local (host venv) — pass the absolute path to server.py for your machine.",
+  "_comment_docker": "Docker — the container reads the warehouse from the bind-mounted ./data dir.",
+  "mcpServers": {
+    "aci-analytics-local": {
+      "command": "python",
+      "args": ["mcp_server/server.py"],
+      "description": "ACI Analytics MCP server running on the host venv"
+    },
+    "aci-analytics-docker": {
+      "command": "docker",
+      "args": [
+        "compose",
+        "-f",
+        "/absolute/path/to/air-cote-divoire/docker-compose.yml",
+        "run",
+        "--rm",
+        "-i",
+        "mcp"
+      ],
+      "description": "ACI Analytics MCP server running inside the aci-analytics container"
+    }
+  }
+}

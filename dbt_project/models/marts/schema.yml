@@ -1,0 +1,112 @@
+version: 2
+
+models:
+  - name: dim_date
+    description: "Date dimension from 2024-11-01 to 2026-01-01."
+    columns:
+      - name: date_day
+        tests:
+          - not_null
+          - unique
+      - name: date_key
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_route
+    description: "Route + airports + operating economics + competitor benchmark."
+    columns:
+      - name: route_id
+        tests:
+          - not_null
+          - unique
+      - name: origin_airport_code
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_airports')
+                field: airport_code
+      - name: total_operating_cost_usd
+        tests:
+          - not_null
+      - name: breakeven_load_factor_pct
+        tests:
+          - not_null
+
+  - name: dim_customer
+    description: "Customer + loyalty summary + ticket summary."
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+      - name: loyalty_tier_rank
+        tests:
+          - accepted_values:
+              arguments:
+                values: [0, 1, 2, 3, 4]
+
+  - name: fact_flight
+    description: "One row per flight. Central operational fact table joining bookings + reviews + route economics."
+    columns:
+      - name: flight_id
+        tests:
+          - not_null
+          - unique
+      - name: route_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_route')
+                field: route_id
+      - name: booked_seats
+        tests:
+          - not_null
+      - name: seat_capacity
+        tests:
+          - not_null
+      - name: load_factor_pct
+        description: "Should be 0–100 (allow nulls for cancelled flights)."
+
+  - name: fact_booking
+    description: "One row per booking. Grain: one passenger on one flight."
+    columns:
+      - name: booking_id
+        tests:
+          - not_null
+          - unique
+      - name: customer_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_id
+      - name: flight_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('fact_flight')
+                field: flight_id
+
+  - name: fact_customer_value
+    description: "Customer-level aggregate: CLV, RFM, ancillary attach, premium conversion, churn risk."
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_id
+      - name: churn_risk_label
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Low Risk', 'Medium Risk', 'High Risk']
+      - name: total_flights
+        tests:
+          - not_null
+      - name: annualized_revenue_usd
+        tests:
+          - not_null

@@ -1,0 +1,95 @@
+version: 2
+
+models:
+  - name: sem_route_performance
+    description: |
+      Canonical route-level KPI table. 25+ commercial, capacity, operational,
+      satisfaction and competitive metrics per route. Consumed by both the
+      dashboard and the MCP server.
+    columns:
+      - name: route_id
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              arguments:
+                to: ref('dim_route')
+                field: route_id
+      - name: total_revenue_usd
+        tests:
+          - not_null
+      - name: margin_pct
+        description: "Operating margin as a percentage. Range typically 0-100."
+        tests:
+          - not_null
+      - name: avg_load_factor_pct
+        tests:
+          - not_null
+      - name: breakeven_load_factor_pct
+        tests:
+          - not_null
+      - name: delay_rate_pct
+        tests:
+          - not_null
+      - name: cancellation_rate_pct
+        tests:
+          - not_null
+      - name: pricing_position
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Premium', 'Discounted']
+
+  - name: sem_customer_segments
+    description: |
+      Customer-level KPIs + derived segments (value_tier, upsell_propensity,
+      retention_action). Thresholds defined as dbt vars.
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+          - unique
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_id
+      - name: value_tier
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['High Value', 'Mid Value', 'Low Value']
+      - name: upsell_propensity
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['High Propensity', 'Medium Propensity', 'Low Propensity']
+      - name: retention_action
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Priority Retain', 'Retain', 'Maintain']
+      - name: churn_risk_label
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Low Risk', 'Medium Risk', 'High Risk']
+
+  - name: sem_weekly_kpis
+    description: "Weekly grain time-series for the dashboard trend lines."
+    columns:
+      - name: route_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('dim_route')
+                field: route_id
+
+  - name: sem_monthly_kpis
+    description: "Cross-section by route_type × haul_category for executive summary."
+    columns:
+      - name: route_type
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Domestic', 'Regional', 'International']

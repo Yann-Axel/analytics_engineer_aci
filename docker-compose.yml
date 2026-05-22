@@ -1,0 +1,96 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# Air Côte d'Ivoire Analytics — Compose stack
+# ──────────────────────────────────────────────────────────────────────────────
+# Three services share one image (built once) and one bind-mounted data dir:
+#
+#   pipeline   one-shot: load + generate + dbt build + validate
+#   dashboard  long-running Streamlit on :8501, blocks until pipeline succeeds
+#   mcp        on-demand MCP server over stdio (run via docker compose run)
+#
+# Quick start:
+#   docker compose run --rm pipeline       # build the warehouse
+#   docker compose up dashboard            # open http://localhost:8501
+#   docker compose run --rm -i mcp         # wire into your MCP client
+# ──────────────────────────────────────────────────────────────────────────────
+
+x-base: &base
+  build:
+    context: .
+    dockerfile: Dockerfile
+  image: aci-analytics:latest
+  environment:
+    DBT_PROFILES_DIR: /app/dbt_project
+  volumes:
+    # The warehouse + raw/synthetic CSVs persist on the host so the dashboard
+    # and MCP can read what the pipeline wrote, even after containers exit.
+    - ./data:/app/data
+    # Persist dbt's compiled artefacts (manifest.json, catalog.json, run_results)
+    # for `dbt docs serve` and CI inspection.
+    - ./dbt_project/target:/app/dbt_project/target
+    - ./dbt_project/logs:/app/dbt_project/logs
+
+services:
+  # One-shot full pipeline. Exits 0 on success, non-zero on any failure.
+  pipeline:
+    <<: *base
+    container_name: aci-pipeline
+    command: >
+      bash -lc "
+      python scripts/01_load_raw.py
+      && python scripts/02_generate_synthetic.py
+      && cd dbt_project
+      && dbt build --profiles-dir .
+      && dbt docs generate --profiles-dir .
+      && cd ..
+      && python scripts/03_validate_data.py
+      "
+
+  # Long-running Streamlit dashboard. Depends on a successful pipeline run.
+  dashboard:
+    <<: *base
+    container_name: aci-dashboard
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    ports:
+      - "8501:8501"
+    command: >
+      streamlit run dashboard/app.py
+      --server.address 0.0.0.0
+      --server.port 8501
+      --server.headless true
+      --server.fileWatcherType none
+      --browser.gatherUsageStats false
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
+
+  # MCP server. stdio transport — meant to be spawned by an MCP client.
+  # Running it under `docker compose up` would leave a container idling on a
+  # stdin that never arrives, so it sits behind the `mcp` profile and only
+  # starts when explicitly requested:
+  #   docker compose run --rm -i mcp                  # ad-hoc launch
+  #   docker compose --profile mcp up mcp             # keep container live
+  mcp:
+    <<: *base
+    container_name: aci-mcp
+    profiles: ["mcp"]
+    stdin_open: true
+    tty: false
+    command: python mcp_server/server.py
+
+  # Optional: serve auto-generated dbt docs on :8080.
+  dbt-docs:
+    <<: *base
+    container_name: aci-dbt-docs
+    profiles: ["docs"]    # only runs when explicitly requested
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
+    ports:
+      - "8080:8080"
+    working_dir: /app/dbt_project
+    command: dbt docs serve --profiles-dir . --port 8080 --host 0.0.0.0

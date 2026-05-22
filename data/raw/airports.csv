@@ -1,0 +1,11 @@
+airport_code,airport_name,city,country,timezone,latitude,longitude
+ABJ,Félix-Houphouët-Boigny International Airport,Abidjan,Côte d'Ivoire,Africa/Abidjan,5.26,-3.93
+BYK,Bouaké Airport,Bouaké,Côte d'Ivoire,Africa/Abidjan,7.74,-5.07
+MJC,Man Airport,Man,Côte d'Ivoire,Africa/Abidjan,7.27,-7.59
+HGO,Korhogo Airport,Korhogo,Côte d'Ivoire,Africa/Abidjan,9.39,-5.56
+ACC,Kotoka International Airport,Accra,Ghana,Africa/Accra,5.61,-0.17
+DKR,Blaise Diagne International Airport,Dakar,Senegal,Africa/Dakar,14.67,-17.07
+LOS,Murtala Muhammed International Airport,Lagos,Nigeria,Africa/Lagos,6.58,3.32
+COO,Cadjehoun Airport,Cotonou,Benin,Africa/Porto-Novo,6.36,2.38
+OUA,Ouagadougou Airport,Ouagadougou,Burkina Faso,Africa/Ouagadougou,12.35,-1.51
+CDG,Charles de Gaulle Airport,Paris,France,Europe/Paris,49,2.55

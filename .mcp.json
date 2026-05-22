@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aci-analytics": {
+      "command": "python",
+      "args": ["mcp_server/server.py"],
+      "description": "Air Côte d'Ivoire Analytics — 9 tools for route performance, customer retention, upsell, and budget decisions"
+    }
+  }
+}
